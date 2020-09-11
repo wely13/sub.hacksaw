@@ -1,0 +1,5372 @@
+﻿1
+00:01:33,176 --> 00:01:36,649
+KAPAL ANTAR BINTANG AVALON
+
+2
+00:01:37,590 --> 00:01:42,827
+TUJUAN
+KOLONI DUNIA HOMESTEAD II
+
+3
+00:01:57,200 --> 00:02:00,755
+STATUS : PILOT OTOMATIS
+
+4
+00:02:01,376 --> 00:02:05,860
+MARKAS KOMANDO HIBERNASI AWAK KAPAL
+
+5
+00:02:06,576 --> 00:02:10,066
+AWAK KAPAL : 258
+
+6
+00:02:10,999 --> 00:02:13,131
+PENUMPANG :
+
+7
+00:02:13,131 --> 00:02:16,613
+PENUMPANG : 5.000
+
+8
+00:02:40,471 --> 00:02:42,695
+MENGALIHKAN DAYA UNTUK
+PERISAI UTAMA
+
+9
+00:03:04,652 --> 00:03:06,099
+PERINGATAN TABRAKAN
+
+10
+00:03:25,603 --> 00:03:26,940
+MEMPERBAIKI REAKTOR FUSI
+MENGALIHKAN DAYA
+
+11
+00:03:26,965 --> 00:03:27,379
+MEMPERBAIKI REAKTOR FUSI
+MENGALIHKAN DAYA
+
+12
+00:03:27,404 --> 00:03:27,864
+REAKTOR FUSI
+
+13
+00:03:27,889 --> 00:03:30,441
+REAKTOR FUSI
+
+14
+00:03:36,100 --> 00:03:41,200
+RUANG HIBERNASI
+POD 1498
+
+15
+00:04:01,412 --> 00:04:03,240
+JAMES PRESTON
+DENVER, COLORADO
+INSINYUR MEKANIK TINGKAT 2
+
+16
+00:04:24,000 --> 00:04:25,000
+PENUMPANG DIKELUARKAN
+
+17
+00:04:25,930 --> 00:04:27,832
+Selamat pagi, James!
+
+18
+00:04:27,833 --> 00:04:29,334
+Bagaimana perasaanmu?
+
+19
+00:04:29,335 --> 00:04:30,535
+Tunggu, apa?
+
+20
+00:04:30,536 --> 00:04:33,371
+Wajar saja jika bingung.
+
+21
+00:04:33,372 --> 00:04:37,674
+Kau sudah mati suri selama
+120 tahun.
+
+22
+00:04:37,675 --> 00:04:38,977
+Apa?
+
+23
+00:04:38,978 --> 00:04:40,945
+Tak apa, James.
+
+24
+00:04:41,200 --> 00:04:42,004
+Yang benar Jim.
+
+25
+00:04:42,200 --> 00:04:42,900
+Jim.
+
+26
+00:04:43,816 --> 00:04:44,415
+Bernafaslah.
+
+27
+00:04:45,150 --> 00:04:46,702
+Semuanya baik-baik saja.
+
+28
+00:04:47,229 --> 00:04:48,069
+Dimana aku?
+
+29
+00:04:48,420 --> 00:04:50,355
+Kau penumpang di
+Kapal Luar Angkasa Avalon.
+
+30
+00:04:50,356 --> 00:04:54,160
+Perusahaan kapal antar bintang
+yang terkemuka, Homestead.
+
+31
+00:04:54,200 --> 00:04:55,025
+TANDA-TANDA VITAL
+
+32
+00:04:55,161 --> 00:04:59,164
+Kita hampir menyelesaikan perjalanan
+dari bumi ke rumah barumu..,
+
+33
+00:04:59,165 --> 00:05:01,965
+...koloni dunia dari Homestead II.
+
+34
+00:05:02,442 --> 00:05:03,320
+Dunia yang baru.
+
+35
+00:05:03,961 --> 00:05:05,095
+Awal yang baru.
+
+36
+00:05:05,201 --> 00:05:06,805
+Ruang untuk tumbuh.
+
+37
+00:05:06,806 --> 00:05:08,406
+Oh, ya.
+
+38
+00:05:08,407 --> 00:05:10,508
+Avalon sedang dalam pendekatan terakhir.
+
+39
+00:05:10,509 --> 00:05:12,844
+Untuk 4 bulan ke depan,
+kau akan menikmati perjalanan luar angkasa...
+
+40
+00:05:12,845 --> 00:05:15,236
+...yang paling mewah.
+
+41
+00:05:15,237 --> 00:05:17,816
+Makanan. Bersenang-senang.
+Teman.
+
+42
+00:05:17,817 --> 00:05:19,017
+Teman-temanku.
+
+43
+00:05:19,018 --> 00:05:20,451
+Itu benar, Jim.
+
+44
+00:05:20,452 --> 00:05:24,569
+ID Band yang ada di pergelangan tanganmu
+adalah kuncimu untuk pertanyaan mengenai Avalon.
+
+45
+00:05:26,225 --> 00:05:27,892
+Kesehatanmu bagus, Jim.
+
+46
+00:05:28,184 --> 00:05:31,328
+Pergilah ke kabinmu
+dimana kau bisa beristirahat.
+
+47
+00:05:38,469 --> 00:05:42,339
+<i>Kau mungkin akan mengalami
+sakit pasca hibernasi.</i>
+
+48
+00:05:43,808 --> 00:05:46,843
+<i>Pintumu akan menyala untukmu.</i>
+
+49
+00:05:49,447 --> 00:05:50,717
+Selamat datang di kabinmu.
+
+50
+00:05:50,770 --> 00:05:53,130
+Rumahmu sampai kita mendarat.
+
+51
+00:05:53,170 --> 00:05:57,542
+Selama 4 bulan ke depan, kau akan bersiap
+untuk hidup barumu di Homestead II.
+
+52
+00:05:57,543 --> 00:06:00,892
+Bertemu dengan sesama penumpang,
+mengambil kelas keterampilan pembangunan...
+
+53
+00:06:00,893 --> 00:06:03,261
+...dan belajar mengenai kehidupan koloni.
+
+54
+00:06:03,262 --> 00:06:05,700
+Kau sudah terdaftar di Kelompok Belajar 38...
+
+55
+00:06:05,740 --> 00:06:09,052
+...untuk penumpang yang terampil di bidang
+teknik mesin dan teknik perdagangan.
+
+56
+00:06:09,077 --> 00:06:12,152
+Pindai ID-mu untuk
+mengonfirmasi bagasi pengirimannya.
+
+57
+00:06:13,048 --> 00:06:17,640
+Jim, tolong pindai ID-mu untuk
+mengonfirmasi bagasi pengirimannya.
+
+58
+00:06:21,891 --> 00:06:26,638
+Untuk membantumu pulih dari hibernasi,
+pastikan untuk minum banyak cairannya.
+
+59
+00:06:28,033 --> 00:06:30,760
+Nikmati sisa perjalananmu di Avalon.
+
+60
+00:06:30,785 --> 00:06:33,605
+Perusahaan Kapal Luar Angkasa Homestead.
+
+61
+00:06:35,509 --> 00:06:36,845
+<i>Selamat pagi satu dan semuanya.</i>
+
+62
+00:06:36,870 --> 00:06:39,670
+<i>Pagi yang indah disini
+di Kapal Luar Angkasa Avalon.</i>
+
+63
+00:06:39,695 --> 00:06:42,435
+<i>Apapun yang kau lakukan jangan rindu rumah,
+rindukan Homestead.</i>
+
+64
+00:06:42,460 --> 00:06:45,641
+<i>Ayo mulai dengan salah satu hal
+favoritku saat ada di bumi.</i>
+
+65
+00:06:51,758 --> 00:06:53,623
+Tidak.
+
+66
+00:06:56,700 --> 00:06:57,600
+Ini terlihat bodoh!
+
+67
+00:07:01,560 --> 00:07:05,030
+Panggil saja aku... panggil aku Jim.
+Kau punya jaket yang keren.
+
+68
+00:07:19,003 --> 00:07:21,306
+Halo, Penumpang.
+
+69
+00:07:21,307 --> 00:07:24,007
+Silahkan kalian semua duduk.
+
+70
+00:07:24,709 --> 00:07:27,264
+Selamat datang di Kelompok Belajar 38.
+
+71
+00:07:27,289 --> 00:07:30,624
+Pengenalan bagi kalian tentang kehidupan koloni.
+
+72
+00:07:30,649 --> 00:07:34,786
+Bumi adalah planet yang makmur.
+Tempat lahirnya peradaban.
+
+73
+00:07:34,787 --> 00:07:40,391
+Tapi bagi banyak orang, bumi juga kelebihan populasi.
+Terlalu mahal. Berlebihan.
+
+74
+00:07:40,392 --> 00:07:42,527
+Maafkan aku,
+Kurasa mungkin ada yang salah denganku...
+
+75
+00:07:42,528 --> 00:07:45,902
+Tahan pertanyaan sampai selesai./
+Oh, maaf.
+
+76
+00:07:45,927 --> 00:07:47,596
+Para koloni memberikan alternatif.
+
+77
+00:07:47,596 --> 00:07:50,087
+Hidup yang lebih baik./
+Dimana yang lainnya...
+
+78
+00:07:50,143 --> 00:07:54,005
+Dan tidak ada koloni
+yang lebih indah daripada Homestead II.
+
+79
+00:07:54,006 --> 00:07:57,542
+Permata dari seisi alam semesta./
+Maaf.
+
+80
+00:07:57,543 --> 00:07:59,110
+Dimana semua orang?
+
+81
+00:07:59,111 --> 00:08:01,179
+Kita semua ada di Kapal Luar Angkasa Avalon.
+
+82
+00:08:01,180 --> 00:08:02,667
+Tapi hanya aku yang disini.
+
+83
+00:08:02,692 --> 00:08:07,296
+Ada 5.000 penumpang
+dan 258 awak kapal.
+
+84
+00:08:07,321 --> 00:08:08,996
+Jadi kenapa aku sendirian?
+
+85
+00:08:09,021 --> 00:08:11,654
+Kita semua ada disini bersama.
+
+86
+00:08:13,057 --> 00:08:14,824
+Halo?
+
+87
+00:08:16,027 --> 00:08:17,895
+Ada orang disini?
+
+88
+00:08:17,896 --> 00:08:19,929
+Halo?
+
+89
+00:08:30,008 --> 00:08:33,044
+<i>Kencangkan dan amankanlah
+barang apapun yang mudah terlepas.</i>
+
+90
+00:08:33,045 --> 00:08:37,780
+<i>Elevator ini mungkin akan mengalami
+kehilangan gravitasi sesaat.</i>
+
+91
+00:09:00,038 --> 00:09:02,705
+<i>Grand Concourse.</i>
+
+92
+00:09:15,549 --> 00:09:21,259
+<i>Halo. Selamat datang di Grand Concourse di dalam
+kapal luar angkasa Avalon, ada yang bisa kubantu?</i>
+
+93
+00:09:21,260 --> 00:09:23,261
+Aku harus berbicara dengan seseorang.
+
+94
+00:09:23,262 --> 00:09:25,063
+Orang yang benar-benar hidup.
+
+95
+00:09:25,200 --> 00:09:27,882
+<i>Orang seperti apa? Pelatih pribadi?
+Perencana perjalanan? Terapis?</i>
+
+96
+00:09:27,907 --> 00:09:30,301
+Aku tidak tahu.
+Seseorang yang memerintah.
+
+97
+00:09:30,356 --> 00:09:34,472
+<i>Pegawai kapal yang menangani urusan
+penumpang ada di lantai 3 Grand Concourse.</i>
+
+98
+00:09:34,473 --> 00:09:36,973
+Terima kasih./
+<i>Senang bisa membantu!</i>
+
+99
+00:09:41,979 --> 00:09:43,314
+Tidak bagus.
+
+100
+00:09:43,315 --> 00:09:44,923
+<i>Halo!</i>/
+Siapa yang menerbangkan kapal ini?
+
+101
+00:09:44,948 --> 00:09:46,795
+<i>Awak penerbangan, Kapten,
+Pilot, Kepala Navigasi...</i>
+
+102
+00:09:46,819 --> 00:09:48,953
+Kapten. Aku mau berbicara
+dengan kaptennya.
+
+103
+00:09:48,954 --> 00:09:50,885
+<i>Kapten jarang turun tangan untuk
+mengurus masalah penumpang secara langsung.</i>
+
+104
+00:09:50,910 --> 00:09:53,204
+Ini darurat, tolong.
+
+105
+00:09:53,229 --> 00:09:57,260
+<i>Kapten biasanya ada di Pusat Navigasi,
+di Dek Komando.</i>
+
+106
+00:10:07,024 --> 00:10:10,392
+<i>Akses menuju Pusat Navigasi
+memerlukan ijin khusus.</i>
+
+107
+00:10:12,145 --> 00:10:15,412
+<i>Akses menuju Pusat Navigasi
+memerlukan ijin khusus.</i>
+
+108
+00:10:17,715 --> 00:10:20,883
+Kau pasti bercanda.
+
+109
+00:10:33,498 --> 00:10:36,399
+<i>Selamat datang di Observatorium.</i>
+
+110
+00:10:37,768 --> 00:10:40,371
+<i>Apa yang bisa kutunjukan kepadamu?</i>
+
+111
+00:10:40,372 --> 00:10:43,106
+Kita harusnya segera mendarat...
+
+112
+00:10:45,209 --> 00:10:48,212
+Aku... satu-satunya orang yang terbangun.
+
+113
+00:10:48,213 --> 00:10:51,381
+<i>Aku tidak mengerti.
+Apa yang bisa kutunjukan kepadamu?</i>
+
+114
+00:10:52,350 --> 00:10:54,185
+Tunjukan aku Homestead II.
+
+115
+00:10:54,186 --> 00:10:57,255
+<i>Homestead II adalah planet ke-4
+di Sistem Bhakti.</i>
+
+116
+00:10:57,256 --> 00:10:59,457
+Benar.
+Dan dimana kita?
+
+117
+00:10:59,458 --> 00:11:02,569
+<i>Kita sedang transit
+dari bumi menuju Homestead II.</i>
+
+118
+00:11:02,570 --> 00:11:06,688
+<i>Kita akan sampai sekitar 90 tahun lagi.</i>/
+Apa?
+
+119
+00:11:06,713 --> 00:11:10,067
+<i>Kita akan sampai di Homestead II
+dalam 90 tahun, 3 minggu, 1 hari.</i>
+
+120
+00:11:10,068 --> 00:11:13,037
+Tidak.
+Tunggu. Berapa lama kita meninggalkan bumi?
+
+121
+00:11:13,038 --> 00:11:16,172
+<i>Sekitar 30 tahun yang lalu.</i>
+
+122
+00:11:19,410 --> 00:11:22,445
+Aku bangun terlalu awal.
+
+123
+00:11:24,141 --> 00:11:25,249
+<i>Halo.</i>
+
+124
+00:11:25,250 --> 00:11:26,751
+Bagaimana caranya aku
+mengirim pesan ke bumi?
+
+125
+00:11:26,752 --> 00:11:31,135
+<i>Pesan antar bintang dikirim melalui sinar laser.
+Ini adalah layanan yang mahal.</i>
+
+126
+00:11:31,160 --> 00:11:33,527
+Sialan!/
+<i>Senang bisa membantu!</i>
+
+127
+00:11:35,526 --> 00:11:37,061
+<i>Planet dan koneksi?</i>
+
+128
+00:11:37,062 --> 00:11:38,963
+Bumi.
+Perusahaan Homestead.
+
+129
+00:11:38,964 --> 00:11:43,901
+<i>Ada 30.826 kontak yang terdaftar
+atas nama “Perusahaan Homestead.”</i>
+
+130
+00:11:43,902 --> 00:11:47,171
+Aku beremigrasi ke Homestead II.
+Aku punya situasi darurat.
+
+131
+00:11:47,172 --> 00:11:49,907
+<i>Aku punya nomor Helpline Pelanggan.</i>/
+Kelihatannya benar.
+
+132
+00:11:49,908 --> 00:11:51,805
+<i>Memulai pesan.</i>
+
+133
+00:11:52,176 --> 00:11:55,580
+Hai.
+Aku Jim Preston.
+
+134
+00:11:55,581 --> 00:11:57,980
+Aku penumpang di Avalon.
+
+135
+00:11:58,049 --> 00:12:00,116
+Aku uh...
+
+136
+00:12:02,187 --> 00:12:05,181
+Kurasa ada yang salah dengan
+pod hibernasiku.
+
+137
+00:12:05,206 --> 00:12:06,691
+<i>Aku bangun terlalu awal.</i>
+
+138
+00:12:06,692 --> 00:12:10,494
+<i>Dan maksudku...
+Terlalu cepat.</i>
+
+139
+00:12:10,495 --> 00:12:13,664
+<i>Tidak ada orang lain yang terbangun.
+Dan...</i>
+
+140
+00:12:13,665 --> 00:12:15,533
+<i>Aku tidak tahu caranya kembali tidur.</i>
+
+141
+00:12:15,534 --> 00:12:19,402
+Dan masalahnya,
+butuh 90 tahun untuk sampai.
+
+142
+00:12:22,006 --> 00:12:25,274
+Dan saat ini, aku...
+
+143
+00:12:27,912 --> 00:12:30,615
+Maaf, aku mencoba untuk memperbaiki ini.
+
+144
+00:12:30,616 --> 00:12:34,284
+Kurasa ada sesuatu yang tertinggal.
+Aku bisa menggunakan satu tangan.
+
+145
+00:12:34,285 --> 00:12:36,319
+Hanya itu.
+
+146
+00:12:36,621 --> 00:12:38,187
+Terima kasih.
+
+147
+00:12:39,054 --> 00:12:41,055
+<i>Pesan terkirim.</i>
+
+148
+00:12:42,727 --> 00:12:43,794
+Tidak mengerti.
+
+149
+00:12:43,795 --> 00:12:47,398
+<i>Pesan akan terkirim dalam 19 tahun.</i>/
+Tunggu, apa?
+
+150
+00:12:47,399 --> 00:12:52,270
+<i>Jawaban paling cepat akan datang 55 tahun.</i>/
+55 tahun.
+
+151
+00:12:52,271 --> 00:12:54,472
+<i>Kami meminta maaf atas keterlambatannya.</i>
+
+152
+00:12:54,473 --> 00:12:57,807
+Harganya $6012.
+
+153
+00:13:11,053 --> 00:13:13,055
+Selamat siang./ Astaga.
+
+154
+00:13:13,080 --> 00:13:15,369
+Senang rasanya melihat wajah lain.
+
+155
+00:13:15,394 --> 00:13:16,961
+Kupikir hanya aku yang terbangun.
+
+156
+00:13:16,962 --> 00:13:20,064
+Siapa yang mau tidur di hari
+yang indah ini?
+
+157
+00:13:20,065 --> 00:13:23,334
+Oh, maksudku kita dalam masalah,
+kita tidak seharusnya disini.
+
+158
+00:13:23,335 --> 00:13:25,936
+Yah, aku takkan memberitahumu
+jika memang tidak.
+
+159
+00:13:25,937 --> 00:13:28,571
+Huh?/ Rahasia kecil kita.
+
+160
+00:13:29,473 --> 00:13:31,108
+Apa yang bisa kuberikan padamu?
+
+161
+00:13:31,109 --> 00:13:34,310
+Apa?/ Kau terlihat seperti <i>whiskey man</i>.
+
+162
+00:13:34,335 --> 00:13:36,502
+Oke.
+
+163
+00:13:39,821 --> 00:13:42,653
+Oh, kau robot.
+
+164
+00:13:42,654 --> 00:13:45,894
+Secara teknis, Android.
+
+165
+00:13:47,425 --> 00:13:49,627
+Namanya Arthur.
+
+166
+00:13:49,628 --> 00:13:52,829
+Jim./ Senang bertemu denganmu, Jim.
+
+167
+00:13:57,935 --> 00:14:00,371
+Seberapa banyak yang kau tahu tentang
+kapal ini?
+
+168
+00:14:00,372 --> 00:14:03,152
+Aku tidak tahu.
+Aku tahu beberapa hal.
+
+169
+00:14:03,177 --> 00:14:05,443
+Apa yang harus kulakukan jika
+pod hibernasiku mengalami malfungsi?
+
+170
+00:14:05,444 --> 00:14:08,112
+Oh. Pod hibernasinya mustahil untuk rusak.
+
+171
+00:14:08,113 --> 00:14:11,082
+Tidak pernah mengalami malfungsi./
+Tapi aku bangun lebih awal.
+
+172
+00:14:11,083 --> 00:14:12,750
+Tidak bisa terjadi.
+
+173
+00:14:12,751 --> 00:14:14,685
+Berapa lama sampai kita
+sampai di Homestead II?
+
+174
+00:14:14,686 --> 00:14:16,420
+Sekitar 90 tahun atau begitulah.
+
+175
+00:14:16,421 --> 00:14:18,656
+Dan kapan seharusnya seluruh
+penumpang terbangun?
+
+176
+00:14:18,657 --> 00:14:21,592
+Sampai 4 bulan terakhir.
+
+177
+00:14:21,593 --> 00:14:26,729
+Bagaimana mungkin aku duduk di sini
+denganmu hingga 90 tahun?
+
+178
+00:14:30,435 --> 00:14:32,814
+Ini tidak mungkin bagimu ada disini.
+
+179
+00:14:35,005 --> 00:14:37,139
+Yah, memang.
+
+180
+00:14:41,146 --> 00:14:43,647
+<i>Selamat pagi, pagi yang indah di Avalon.</i>
+
+181
+00:14:43,648 --> 00:14:47,917
+<i>Jadi bangunlah, Sunshine.
+Ini waktunya untuk nikmati perjalananmu.</i>
+
+182
+00:14:58,176 --> 00:15:00,810
+<i>Tolong buat pilihan.</i>
+
+183
+00:15:01,799 --> 00:15:05,936
+<i>Maaf. Mocha Cappuccino Extreme
+tersedia untuk penumpang kelas Gold.</i>
+
+184
+00:15:05,937 --> 00:15:08,672
+<i>Maaf. Mocha Cappuccino Extreme
+tersedia untuk...</i>
+
+185
+00:15:08,673 --> 00:15:11,388
+<i>Aku ingin Mocha Cappuccino Extreme.
+Aku pesan yang untuk ruanganku.</i>
+
+186
+00:15:11,413 --> 00:15:12,843
+<i>Makanan yang bisa dibeli di kapal...</i>
+
+187
+00:15:12,844 --> 00:15:14,512
+<i>Maaf.
+French Roast...</i>
+
+188
+00:15:14,513 --> 00:15:16,447
+<i>Maaf.
+Pumpkin Spice...</i>
+
+189
+00:15:16,448 --> 00:15:17,581
+<i>Maaf.
+Vanilla Chai...</i>
+
+190
+00:15:17,582 --> 00:15:18,883
+<i>Maaf.
+Maaf.</i>
+
+191
+00:15:18,884 --> 00:15:21,185
+<i>Ma... Ma... Maaf.</i>
+
+192
+00:15:21,186 --> 00:15:24,588
+<i>Kopi Large. Nikmatilah kopimu.</i>/
+Krim. Gula.
+
+193
+00:15:24,589 --> 00:15:26,389
+Oh, sungguh?
+
+194
+00:15:40,060 --> 00:15:43,006
+[POD HIBERNASI]
+
+195
+00:16:46,704 --> 00:16:51,407
+<i>Akses untuk pod awak kapal memerlukan ijin khusus.</i>
+
+196
+00:17:29,662 --> 00:17:30,070
+KEGAGALAN PENGENDALIAN TRANSPORT
+
+197
+00:17:30,095 --> 00:17:30,940
+KEGAGALAN PENGENDALIAN TRANSPORT ELEVATOR_2B
+
+198
+00:17:30,965 --> 00:17:32,811
+KEGAGALAN PENGENDALIAN TRANSPORT ELEVATOR_2B
+ERROR BERAT
+
+199
+00:17:34,485 --> 00:17:35,986
+<i>Grand Conc...</i>
+
+200
+00:17:35,987 --> 00:17:37,288
+<i>Pergi.</i>
+
+201
+00:17:37,289 --> 00:17:39,221
+<i>Tolong buat...
+Tingkatan...</i>
+
+202
+00:17:40,658 --> 00:17:42,459
+<i>Grand Concourse.</i>
+
+203
+00:17:42,460 --> 00:17:46,363
+Aku kacau, Arthur.
+Sangat kacau.
+
+204
+00:17:46,364 --> 00:17:50,499
+Ayolah.
+Badai pasti berlalu.
+
+205
+00:17:51,869 --> 00:17:55,039
+Tebaklah, aku akan mati tua di kapal ini!
+
+206
+00:17:55,040 --> 00:17:56,974
+Oh, kita semua mati.
+
+207
+00:17:56,975 --> 00:17:59,977
+Bahkan android juga berakhir
+di tumpukan sampah.
+
+208
+00:17:59,978 --> 00:18:03,279
+Aku satu-satunya pelanggan,
+kenapa kau selalu mengelap gelasnya?
+
+209
+00:18:03,614 --> 00:18:05,316
+Strategi pemasaran.
+
+210
+00:18:05,317 --> 00:18:07,818
+Membuat orang gugup saat
+bartender hanya berdiri.
+
+211
+00:18:07,819 --> 00:18:11,954
+Jadi, berikan padaku kebijaksanaan bartender.
+Aku berada entah dimana ini.
+
+212
+00:18:13,592 --> 00:18:16,093
+Kau bukan ada di tempat
+yang kau inginkan.
+
+213
+00:18:16,094 --> 00:18:19,462
+Kau merasa seperti kau seharusnya
+ada di tempat lain.
+
+214
+00:18:23,233 --> 00:18:24,535
+Kau bilang itu./ Yah.
+
+215
+00:18:24,596 --> 00:18:28,639
+Anggap saja kau bisa mematahkan jemarimu dan
+bisa jadi apapun yang kau mau.
+
+216
+00:18:28,640 --> 00:18:32,476
+Aku berani bertaruh kau akan terus merasa
+seperti ini. Bukan di tempat yang tepat.
+
+217
+00:18:32,477 --> 00:18:36,046
+Intinya adalah, kau tidak boleh terpaku
+dengan tempat yang lebih kau suka..,
+
+218
+00:18:36,047 --> 00:18:38,949
+...kau lupa untuk memanfaatkan
+tempat dimana kau berada secara maksimal.
+
+219
+00:18:38,950 --> 00:18:40,551
+Apa maksudmu?
+
+220
+00:18:40,552 --> 00:18:44,453
+Beristirahatlah mengkhawatirkan
+apa yang tidak bisa kau kontrol.
+
+221
+00:18:45,522 --> 00:18:47,558
+Hiduplah sedikit.
+
+222
+00:18:47,559 --> 00:18:50,159
+Hiduplah sedikit.
+
+223
+00:18:58,236 --> 00:19:02,339
+<i>Selamat datang di Vienna Suite.</i>/
+Oh.
+
+224
+00:19:02,340 --> 00:19:04,174
+Oh ya.
+
+225
+00:19:04,175 --> 00:19:06,308
+Huh.
+Ha ha ha.
+
+226
+00:19:08,546 --> 00:19:10,713
+Apa?
+
+227
+00:19:14,985 --> 00:19:17,254
+Oh.
+
+228
+00:19:17,271 --> 00:19:18,923
+<i>Ayo, Jim!
+Ayo, Jim!</i>
+
+229
+00:19:18,948 --> 00:19:19,669
+Yeah!
+
+230
+00:19:19,791 --> 00:19:22,285
+Aku pesan Udang Jumbo Double.
+Tiga.
+
+231
+00:19:22,310 --> 00:19:24,553
+Terima kasih banyak.
+
+232
+00:19:25,029 --> 00:19:26,629
+Menari.
+
+233
+00:19:26,660 --> 00:19:27,408
+PEMAIN 1
+JIM
+
+234
+00:19:28,098 --> 00:19:30,432
+Baiklah.
+
+235
+00:19:31,561 --> 00:19:33,661
+Aku melakukan apa yang kau lakukan.
+
+236
+00:19:38,483 --> 00:19:41,184
+<i>Kopi Large.</i>
+
+237
+00:19:44,396 --> 00:19:46,326
+Tolong satu Margarita.
+
+238
+00:19:46,351 --> 00:19:48,541
+Kau sudah minum banyak, Señor.
+
+239
+00:19:48,566 --> 00:19:51,798
+Oh Hector, tolong.
+Tambah satu.
+
+240
+00:19:51,823 --> 00:19:53,659
+Ya, Señor.
+
+241
+00:19:53,684 --> 00:19:55,450
+Terima kasih.
+
+242
+00:19:56,619 --> 00:20:00,210
+<i>Ayo, Jim!
+Ayo, Jim!</i>
+
+243
+00:20:06,804 --> 00:20:09,271
+Keluar dari sini!
+
+244
+00:20:10,195 --> 00:20:12,161
+Kembali.
+Hei.
+
+245
+00:20:14,273 --> 00:20:15,840
+Kemari.
+
+246
+00:20:46,613 --> 00:20:48,226
+Sialan!
+
+247
+00:21:10,934 --> 00:21:13,369
+<i>Selamat datang, Jim.</i>
+
+248
+00:21:13,971 --> 00:21:18,342
+<i>Mohon perhatikan layar tips keselamatan.</i>
+
+249
+00:21:18,343 --> 00:21:23,013
+<i>Pakaian luar angkasa ini dirancang untuk
+menahan lingkungan yang keras dari luar angkasa.</i>
+
+250
+00:21:23,014 --> 00:21:29,318
+<i>Bahan serat karbon dan poliamida
+membuatnya jadi keras dan kuat menahan.</i>
+
+251
+00:21:40,898 --> 00:21:44,900
+<i>Ingatlah, baju ruang angkasamu
+adalah garis hidupmu.</i>
+
+252
+00:21:53,044 --> 00:21:58,115
+<i>Geser pegangan di sebelah kanan
+untuk melepaskan tekanan udara.</i>
+
+253
+00:21:58,116 --> 00:22:00,450
+<i>Sepatu magnet sekarang berfungsi.</i>
+
+254
+00:22:00,451 --> 00:22:04,072
+<i>Sepatu bisa dinonaktifkan menggunakan
+panel kontrol yang ada di lenganmu.</i>
+
+255
+00:22:04,097 --> 00:22:07,265
+<i>Tekan tombol merah
+untuk membuka pintu pengunci udara.</i>
+
+256
+00:22:10,561 --> 00:22:12,928
+<i>Semoga waktumu menyenangkan!</i>
+
+257
+00:22:19,770 --> 00:22:21,570
+<i>Tali pengait terpasang.</i>
+
+258
+00:22:56,968 --> 00:22:59,004
+SEPATU MAGNET
+MATI
+
+259
+00:23:49,227 --> 00:23:51,627
+<i>Selamat datang kembali, Jim.</i>
+
+260
+00:23:54,364 --> 00:23:59,835
+<i>Kami harap kau mau bergabung dengan
+kami lagi untuk perjalanan mendebarkan lainnya.</i>
+
+261
+00:24:18,528 --> 00:24:21,067
+KEADAAN DARURAT
+PINTU PELEPASAN
+GESER UNTUK DAPAT MENGAKSES
+
+262
+00:24:23,060 --> 00:24:25,561
+<i>Semoga waktumu menyenangkan!</i>
+
+263
+00:25:35,007 --> 00:25:36,801
+AURORA LANE
+
+264
+00:25:45,675 --> 00:25:47,943
+Aurora.
+
+265
+00:25:48,745 --> 00:25:51,248
+<i>Mencari profil penumpang.</i>
+
+266
+00:25:51,249 --> 00:25:53,083
+<i>Aku Aurora Lane.</i>
+
+267
+00:25:53,084 --> 00:25:56,319
+<i>Penumpang 1456.
+Aku seorang penulis.</i>
+
+268
+00:25:56,320 --> 00:25:59,335
+<i>Kurasa kita menceritakan cerita kita masing-masing
+untuk mengetahui kalau kita tidak sendirian.</i>
+
+269
+00:25:59,448 --> 00:26:00,991
+<i>Untuk membuat kontak.</i>
+
+270
+00:26:00,992 --> 00:26:04,261
+<i>Ayahmu adalah Oliver Lane,
+penulis pemenang Penghargaan Pulitzer.</i>
+
+271
+00:26:04,262 --> 00:26:05,663
+<i>Tidak ada paksaan, kan?</i>
+
+272
+00:26:05,662 --> 00:26:07,452
+<i>Ayahku mengatakan :</i>
+
+273
+00:26:07,477 --> 00:26:11,296
+<i>"Jika hidupmu biasa saja, semua yang
+kau punya hanya cerita yang biasa saja..."</i>
+
+274
+00:26:11,436 --> 00:26:14,336
+<i>"...Kau harus menjalani
+hidup dengan petualangan."</i>
+
+275
+00:26:15,038 --> 00:26:16,873
+<i>Jadi.</i>
+
+276
+00:26:16,874 --> 00:26:18,674
+<i>Disinilah aku.</i>
+
+277
+00:26:24,948 --> 00:26:27,149
+Selamat pagi.
+
+278
+00:26:28,785 --> 00:26:32,522
+<i>Kita memulai lagi dari awal...
+dalam semua hal.</i>
+
+279
+00:26:32,523 --> 00:26:35,258
+<i>Aku harus mencari tahu dimana aku akan hidup,
+bagaimana caranya hidup..,</i>
+
+280
+00:26:35,259 --> 00:26:36,642
+<i>...siapa yang akan jadi temanku.</i>
+
+281
+00:26:36,667 --> 00:26:38,168
+<i>Ini seperti hari pertama sekolah.</i>
+
+282
+00:26:38,193 --> 00:26:41,309
+<i>Dan bus sekolah ini perlu 120
+tahun untuk sampai kesana.</i>
+
+283
+00:26:43,500 --> 00:26:45,702
+<i>Kita menciptakan budaya.</i>
+
+284
+00:26:45,703 --> 00:26:46,789
+Kau lucu.
+
+285
+00:26:46,814 --> 00:26:50,140
+Apa kau pernah membaca sesuatu dan
+rasanya itu dituliskan hanya untukmu?
+
+286
+00:26:50,141 --> 00:26:52,242
+Aku tidak terlalu banyak membaca.
+
+287
+00:26:52,243 --> 00:26:54,710
+Dia baik.
+
+288
+00:26:54,735 --> 00:26:56,100
+Siapa itu?
+
+289
+00:26:56,130 --> 00:26:57,825
+Aurora.
+
+290
+00:26:57,850 --> 00:27:01,083
+Ah.
+Gadis yang tertidur.
+
+291
+00:27:05,088 --> 00:27:07,390
+Kau tahu, aku tidak bilang kalau
+alam semesta itu jahat...
+
+292
+00:27:07,391 --> 00:27:09,292
+...tapi jelas memiliki selera humor yang jahat.
+
+293
+00:27:09,293 --> 00:27:10,494
+Bagaimana itu?
+
+294
+00:27:10,495 --> 00:27:16,433
+Kau bisa terbang ke planet lain,
+tapi kau akan mati di perjalanannya.
+
+295
+00:27:16,434 --> 00:27:19,835
+Dan kau menemukan wanita yang sempurna...
+
+296
+00:27:20,303 --> 00:27:23,273
+...tepat di depanmu.
+
+297
+00:27:23,274 --> 00:27:25,874
+Tapi, dia benar-benar di luar jangkauan.
+
+298
+00:27:28,612 --> 00:27:30,814
+<i>Ya, aku akan merindukan Kota New York.</i>
+
+299
+00:27:30,815 --> 00:27:33,116
+<i>Berikan aku secangkir kopi dan
+pemandangan dari Gedung Chrysler..,</i>
+
+300
+00:27:33,117 --> 00:27:34,718
+<i>...dan aku bisa menulis sepanjang hari.</i>
+
+301
+00:27:34,719 --> 00:27:36,987
+<i>Tapi mereka punya kopi Homestead II, kan?</i>
+
+302
+00:27:36,988 --> 00:27:41,558
+<i>Lebih baik mereka punya kopi, jika tidak
+mereka harus putar balik dan kembali ke bumi.</i>
+
+303
+00:27:41,583 --> 00:27:44,568
+<i>Apa ada sesuatu yang kau sesali
+karena kau tinggalkan?</i>
+
+304
+00:27:44,593 --> 00:27:49,599
+<i>Ya, aku akan merindukan pohon-pohon
+di taman kota saat musim gugur.</i>
+
+305
+00:27:49,600 --> 00:27:52,034
+<i>Aku akan merindukan keramaiannya,
+semua suaranya.</i>
+
+306
+00:28:00,844 --> 00:28:03,180
+Katakan saja kau terjebak di pulau terpencil..,
+
+307
+00:28:03,181 --> 00:28:06,183
+...kau bisa berharap ada orang disana denganmu.
+
+308
+00:28:06,184 --> 00:28:08,752
+Kau takkan sendirian lagi...
+
+309
+00:28:08,753 --> 00:28:10,987
+...tapi kau akan terdampar
+dengan orang lain di pulau itu.
+
+310
+00:28:10,988 --> 00:28:13,590
+Bagaimana kau...
+Akankah kau membuat permintaan?
+
+311
+00:28:13,591 --> 00:28:16,092
+Aku tidak tahu.
+Aku tidak pernah pergi ke pulau.
+
+312
+00:28:16,093 --> 00:28:18,261
+Oke... Ya.
+
+313
+00:28:18,262 --> 00:28:21,031
+Lupakan pulaunya.
+
+314
+00:28:21,032 --> 00:28:25,769
+Katakan saja kau tahu
+untuk melakukan sesuatu...
+
+315
+00:28:25,770 --> 00:28:27,604
+...yang mana itu akan membuat hidupmu
+jutaan kali lebih baik.
+
+316
+00:28:27,605 --> 00:28:30,340
+Tapi kau tahu itu salah,
+dan kau tidak bisa menarik perbuatanmu itu.
+
+317
+00:28:30,341 --> 00:28:31,708
+Bagaimana kau akan melakukan perhitungan?
+
+318
+00:28:31,709 --> 00:28:34,609
+Jim.
+Ini bukan robot pertanyaan.
+
+319
+00:28:40,289 --> 00:28:42,850
+Aku tahu cara untuk membangunkan Aurora./
+Oh.
+
+320
+00:28:42,875 --> 00:28:46,423
+Itu kelihatannya ide yang bagus.
+Kau jadi punya teman bicara.
+
+321
+00:28:46,424 --> 00:28:48,625
+Aku akan terdampar dengannya di kapal ini
+seumur hidupnya!
+
+322
+00:28:48,626 --> 00:28:51,760
+Oh.
+Yah, kau tidak boleh melakukan itu.
+
+323
+00:28:52,395 --> 00:28:53,863
+Apa yang harus kulakukan?
+
+324
+00:28:53,864 --> 00:28:55,265
+Aku ada disini untukmu.
+
+325
+00:28:55,266 --> 00:28:57,899
+Arthur, kau itu mesin.
+
+326
+00:29:00,437 --> 00:29:01,301
+Lihat.
+
+327
+00:29:01,326 --> 00:29:05,020
+Lihatlah, kau tidak bisa merasakan itu,
+kau tidak punya perasaan.
+
+328
+00:29:07,544 --> 00:29:08,745
+Kau lihat?
+
+329
+00:29:08,746 --> 00:29:10,347
+Itu tidak terasa sakit.
+
+330
+00:29:10,348 --> 00:29:12,682
+Dan kau bahkan tidak keberatan.
+
+331
+00:29:12,683 --> 00:29:16,218
+Karena...
+kau bukanlah manusia.
+
+332
+00:29:22,246 --> 00:29:23,769
+Jangan pernah pikirkan ini.
+
+333
+00:29:23,794 --> 00:29:25,195
+Tidak ada lagi pembicaraan tentang Aurora.
+
+334
+00:29:25,196 --> 00:29:27,163
+Aku sudah mengakhirinya.
+
+335
+00:29:27,164 --> 00:29:29,200
+Aku ingin move on.
+
+336
+00:29:29,376 --> 00:29:31,201
+Jangan pernah pikirkan ini!
+
+337
+00:29:31,202 --> 00:29:33,103
+Apa yang harus kulakukan?
+Hanya duduk dan memikirkan ini?
+
+338
+00:29:33,104 --> 00:29:35,751
+Aku takkan melakukannya... Aku tidak bisa memikirkan ini.
+Jadi aku takkan melakukannya, itu kesepakatannya.
+
+339
+00:29:35,800 --> 00:29:38,308
+Aku sudah buat keputusanku.
+Aku tahu apa yang kulakukan.
+
+340
+00:29:38,446 --> 00:29:41,293
+Aku hanya memotongnya.
+
+341
+00:29:42,178 --> 00:29:43,546
+Aku tidak...
+Tidak lagi.
+
+342
+00:29:43,547 --> 00:29:44,881
+Kau takkan mendengarku membawakan
+namanya lagi.
+
+343
+00:29:44,882 --> 00:29:46,783
+Bahkan aku takkan menyebutkan namanya lagi.
+
+344
+00:29:46,784 --> 00:29:48,450
+Selesai.
+
+345
+00:29:50,587 --> 00:29:53,121
+Kau tidak bisa melakukan ini.
+
+346
+00:29:57,494 --> 00:29:59,795
+Aku akan mencukur jenggotku.
+
+347
+00:30:09,939 --> 00:30:12,407
+Tolong jangan lakukan ini.
+
+348
+00:32:04,188 --> 00:32:05,588
+Selamat pagi, Aurora.
+
+349
+00:32:05,589 --> 00:32:07,824
+Bagaimana perasaaanmu?
+
+350
+00:32:07,825 --> 00:32:10,727
+Wajar saja jika bingung.
+
+351
+00:32:10,728 --> 00:32:14,596
+Kau sudah mati suri selama
+120 tahun.
+
+352
+00:33:02,345 --> 00:33:04,447
+<i>Grand Concourse.</i>
+
+353
+00:33:04,448 --> 00:33:06,581
+Halo?
+
+354
+00:33:09,385 --> 00:33:11,386
+Seseorang?
+
+355
+00:33:19,763 --> 00:33:21,530
+Halo.
+
+356
+00:33:24,525 --> 00:33:26,025
+Hai.
+
+357
+00:33:28,532 --> 00:33:31,133
+Kau penumpang atau awak kapal?
+
+358
+00:33:32,876 --> 00:33:35,912
+Penumpang.
+Jim Preston.
+
+359
+00:33:35,913 --> 00:33:38,179
+Aurora Lane.
+
+360
+00:33:38,748 --> 00:33:40,650
+Apa kau tahu apa yang terjadi?
+
+361
+00:33:40,651 --> 00:33:43,351
+Tidak ada orang lain dari
+barisanku yang terbangun.
+
+362
+00:33:43,951 --> 00:33:45,219
+Sama juga denganku.
+
+363
+00:33:45,244 --> 00:33:47,824
+Awak kapal seharusnya bangun
+sebulan sebelum kita.
+
+364
+00:33:47,825 --> 00:33:50,969
+Tapi aku tidak melihat mereka.
+
+365
+00:33:53,563 --> 00:33:55,697
+Awak kapal masih tertidur.
+
+366
+00:33:56,966 --> 00:33:59,534
+Apa maksudmu tidak ada orang yang terbangun?
+
+367
+00:33:59,569 --> 00:34:01,137
+Hanya aku.
+
+368
+00:34:01,138 --> 00:34:02,305
+Hanya kau?
+
+369
+00:34:02,306 --> 00:34:04,374
+Hanya kita.
+
+370
+00:34:04,375 --> 00:34:07,510
+Tapi seseorang harus mendaratkan kapal ini
+dalam beberapa minggu.
+
+371
+00:34:07,511 --> 00:34:11,314
+<i>Kita akan sampai sekitar 89 tahun lagi.</i>
+
+372
+00:34:11,315 --> 00:34:14,082
+89 tahun?
+
+373
+00:34:15,585 --> 00:34:19,220
+Penumpang lain bukannya bangun terlambat.
+
+374
+00:34:20,005 --> 00:34:22,239
+Kita yang lebih awal.
+
+375
+00:34:26,262 --> 00:34:28,565
+Kita...
+Kita butuh pertolongan.
+
+376
+00:34:28,566 --> 00:34:30,266
+Awak kapal ada dimana?
+
+377
+00:34:30,267 --> 00:34:32,869
+Para awak kapal ada di ruang
+hibernasi yang terlindungi.
+
+378
+00:34:32,870 --> 00:34:36,573
+Semua yang penting, pengontrol,
+reaktor, mesin...
+
+379
+00:34:36,574 --> 00:34:40,608
+...itu semua dilindungi firewall,
+tidak ada cara masuk.
+
+380
+00:34:50,420 --> 00:34:53,356
+Sudah berapa lama kau terbangun?
+
+381
+00:34:53,357 --> 00:34:55,892
+1 tahun 3 minggu.
+
+382
+00:34:55,893 --> 00:34:59,395
+Tidak.
+Tidak.
+
+383
+00:34:59,396 --> 00:35:01,564
+Tidak, ini tidak bisa terjadi.
+
+384
+00:35:01,565 --> 00:35:04,167
+Kita harus kembali tidur.
+
+385
+00:35:04,168 --> 00:35:06,167
+Aurora, kita tidak bisa.
+
+386
+00:35:08,272 --> 00:35:09,794
+Kita hanya harus kembali ke pod kita...
+
+387
+00:35:09,830 --> 00:35:12,600
+...dan menghidupkannya lagi.
+
+388
+00:35:12,576 --> 00:35:15,345
+Aku tidak bisa menemukan pod-ku.
+Aku tidak bisa menemukan pod-ku.
+
+389
+00:35:15,346 --> 00:35:17,814
+Aku tidak bisa menemukan pod-ku.
+Aku tidak tahu yang mana.
+
+390
+00:35:17,815 --> 00:35:20,450
+Tak apa.
+
+391
+00:35:20,451 --> 00:35:22,018
+Aurora./
+Aku tidak bisa menemukannya.
+
+392
+00:35:22,019 --> 00:35:23,786
+Hentikan. Aurora./
+Aku tidak bisa menemukan milikku.
+
+393
+00:35:23,787 --> 00:35:25,622
+Hentikan./
+Aku tidak tahu yang mana milikku.
+
+394
+00:35:25,623 --> 00:35:26,723
+Aku akan membantumu./
+Aku tidak bisa...
+
+395
+00:35:26,724 --> 00:35:30,125
+Hentikan.
+Tak apa.
+
+396
+00:35:31,861 --> 00:35:35,832
+Menghibernasikan seseorang
+membutuhkan peralatan khusus.
+
+397
+00:35:35,833 --> 00:35:40,203
+Ingatlah fasilitas yang mereka berikan kepada kita
+dengan semua prosedur yang kita lalui.
+
+398
+00:35:40,204 --> 00:35:42,672
+Pod ini dirancang untuk menjaga
+kita tetap berhibernasi..,
+
+399
+00:35:42,673 --> 00:35:44,173
+...mereka akan membangunkan kita
+pada waktu yang tepat.
+
+400
+00:35:44,174 --> 00:35:46,042
+Tetapi mereka tidak bisa mengembalikan
+kita untuk tidur.
+
+401
+00:35:46,043 --> 00:35:49,611
+Menurutmu tidak ada cara lain
+untuk kembali berhibernasi?
+
+402
+00:35:50,446 --> 00:35:51,814
+Tidak.
+
+403
+00:35:51,815 --> 00:35:54,215
+Tapi seharusnya ada.
+
+404
+00:35:54,240 --> 00:35:56,408
+Seharusnya ada.
+
+405
+00:36:04,560 --> 00:36:08,463
+Jam 9 malam.
+Sudah malam.
+
+406
+00:36:12,101 --> 00:36:15,872
+Aku tahu aku harus
+mengatasi masalahnya, tapi...
+
+407
+00:36:15,873 --> 00:36:18,775
+...aku bahkan tidak bisa menjaga
+mataku tetap terbuka.
+
+408
+00:36:18,776 --> 00:36:20,510
+Kau baru saja selesai berhibernasi.
+
+409
+00:36:20,511 --> 00:36:23,312
+Akan butuh beberapa hari supaya
+kau pulih 100%.
+
+410
+00:36:23,313 --> 00:36:25,446
+Kau harus beristirahat.
+
+411
+00:36:25,848 --> 00:36:28,283
+Kurasa memang begitu.
+
+412
+00:36:28,658 --> 00:36:31,516
+Aku akan mengantarmu ke kabinmu./
+Tidak, tak apa.
+
+413
+00:36:31,541 --> 00:36:33,315
+Aku akan baik-baik saja.
+
+414
+00:36:34,163 --> 00:36:35,930
+Baiklah.
+
+415
+00:36:38,561 --> 00:36:40,361
+Selamat malam, Aurora.
+
+416
+00:36:42,010 --> 00:36:46,002
+Lebih dari setahun?
+Aku tidak bisa membayangkannya.
+
+417
+00:36:46,003 --> 00:36:48,336
+Pasti ini sangat sulit bagimu.
+
+418
+00:36:48,705 --> 00:36:50,273
+Memang.
+
+419
+00:36:50,274 --> 00:36:52,407
+Selamat malam, Jim.
+
+420
+00:36:53,309 --> 00:36:57,312
+<i>Kencangkan dan amankanlah
+barang apapun yang mudah terlepas.</i>
+
+421
+00:36:59,746 --> 00:37:02,948
+Wiski. Tanpa campuran./
+Tentu saja.
+
+422
+00:37:08,291 --> 00:37:10,124
+Bagaimana harimu?
+
+423
+00:37:11,060 --> 00:37:12,595
+Aurora terbangun.
+
+424
+00:37:12,596 --> 00:37:14,829
+Selamat.
+
+425
+00:37:16,466 --> 00:37:18,666
+Kau tidak terlihat bahagia.
+
+426
+00:37:22,038 --> 00:37:24,040
+Arthur, bisakah kau menjaga rahasia?
+
+427
+00:37:24,041 --> 00:37:28,678
+Jim, aku bukan hanya sekadar bartender,
+aku pria yang baik hati.
+
+428
+00:37:28,679 --> 00:37:31,679
+Jangan bilang ke Aurora kalau
+aku yang membangunkannya.
+
+429
+00:37:33,182 --> 00:37:36,152
+Dia berpikir kalau ini adalah kecelakan.
+Biar aku saja yang memberitahunya.
+
+430
+00:37:36,153 --> 00:37:38,253
+Tentu saja.
+
+431
+00:37:50,934 --> 00:37:53,302
+Bagaimana bisa tidak ada cara
+untuk mengembalikan orang berhibernasi?
+
+432
+00:37:53,303 --> 00:37:54,971
+Bagaimana jika sebuah pod rusak?
+
+433
+00:37:54,995 --> 00:37:59,675
+<i>Tidak ada pod hibernasi yang mengalami malfungsi
+dalam beribu kali penerbangan antar bintang.</i>
+
+434
+00:37:59,676 --> 00:38:02,178
+Tapi.., aku terbangun.
+
+435
+00:38:02,179 --> 00:38:05,281
+<i>Pod hibernasinya mustahil untuk rusak.</i>
+
+436
+00:38:05,282 --> 00:38:07,683
+Selamat pagi.
+Kau sudah makan?
+
+437
+00:38:07,684 --> 00:38:09,385
+Belum, aku kelaparan.
+
+438
+00:38:09,386 --> 00:38:11,921
+Dan ini adalah mesin terbodoh!
+
+439
+00:38:11,922 --> 00:38:13,916
+<i>Senang bisa membantu!</i>
+
+440
+00:38:19,962 --> 00:38:21,858
+AVA_SYSTEMS
+INFO_M_14C
+
+441
+00:38:21,883 --> 00:38:25,567
+AVA_SYSTEMS
+INFO_M_14C
+ERROR BERAT
+
+442
+00:38:26,228 --> 00:38:28,963
+<i>Sarapan kelas Gold.</i>
+
+443
+00:38:38,781 --> 00:38:40,983
+Yah, kau pria yang sederhana.
+
+444
+00:38:40,984 --> 00:38:43,818
+Aku bukan penumpang kelas Gold.
+
+445
+00:38:45,321 --> 00:38:47,690
+Sarapan Puff Prancis
+diatas jatah kelasku.
+
+446
+00:38:47,691 --> 00:38:49,125
+Apa?
+Selama ini?
+
+447
+00:38:49,126 --> 00:38:50,993
+Ya./ Apa yang bisa kuberikan padamu?
+
+448
+00:38:50,994 --> 00:38:53,029
+Tidak, aku baik-baik saja.../
+Hentikan.
+
+449
+00:38:53,030 --> 00:38:56,097
+Sungguh...
+Baiklah.
+
+450
+00:38:56,667 --> 00:38:58,666
+Ini dia.
+
+451
+00:39:02,840 --> 00:39:04,447
+Ya.
+
+452
+00:39:04,507 --> 00:39:06,213
+Jadi, aku berpikir.
+
+453
+00:39:06,238 --> 00:39:09,024
+Mugkin ada cara lain untuk tidur kembali.
+Bagaimana dengan Ruang Kesehatan?
+
+454
+00:39:09,212 --> 00:39:11,390
+Aku sudah memeriksanya.
+Itu hanyalah scanner dan otodok.
+
+455
+00:39:11,415 --> 00:39:13,983
+Mungkin ada mesin hibernasi lain di kargo.
+
+456
+00:39:13,984 --> 00:39:15,284
+Aku sudah pernah berpikiran begitu juga.
+
+457
+00:39:15,285 --> 00:39:16,819
+Dan aku membaca manifestasinya.
+
+458
+00:39:16,820 --> 00:39:18,991
+Kebanyakan tentang bertani,
+mesin, barang dagang...
+
+459
+00:39:19,016 --> 00:39:21,290
+...suku cadang komputer
+di Ruang Mesin.
+
+460
+00:39:21,291 --> 00:39:23,860
+Kita takkan menemukan
+fasilitas hibernasi di dalam box.
+
+461
+00:39:23,861 --> 00:39:25,527
+Kita bisa membuat punya kita sendiri./
+Kita tidak bisa.
+
+462
+00:39:25,552 --> 00:39:29,498
+Jim, kau bahkan tidak mencobanya!/
+Aku sudah mencoba segalanya.
+
+463
+00:39:29,499 --> 00:39:31,899
+Lebih dari setahun.
+
+464
+00:39:32,501 --> 00:39:33,703
+Aku sudah mencoba segalanya.
+
+465
+00:39:33,704 --> 00:39:35,803
+Oh...
+
+466
+00:39:36,739 --> 00:39:38,940
+Oh yah, aku belum siap untuk menyerah.
+
+467
+00:39:47,683 --> 00:39:50,051
+<i>Ruang Kesehatan.</i>
+
+468
+00:39:57,126 --> 00:39:59,829
+Bagaimana dengan artikel penelitian,
+segala macam dokumen teknik?
+
+469
+00:39:59,830 --> 00:40:02,565
+<i>Teknologi hibernasi adalah milik perusahaan.</i>
+
+470
+00:40:02,566 --> 00:40:07,168
+<i>Artikel berikut ini berhubungan dengan
+subjek pada tingkat teoritis.</i>
+
+471
+00:40:49,745 --> 00:40:53,115
+File baru.
+Perjalananku.
+
+472
+00:40:53,116 --> 00:40:57,618
+Aku menaiki Avalon dengan satu gagasan,
+satu tujuan.
+
+473
+00:40:57,753 --> 00:41:01,756
+Tapi sekarang diluar jangkauan.
+
+474
+00:41:03,392 --> 00:41:05,793
+<i>Aku sudah terbangun selama 7 hari..,</i>
+
+475
+00:41:05,995 --> 00:41:08,364
+<i>...bangun terlalu awal...</i>
+
+476
+00:41:08,365 --> 00:41:11,400
+...dan mungkin aku akan menghabiskan
+sisa hidupku disini...
+
+477
+00:41:11,401 --> 00:41:16,003
+<i>...di dunia dari baja ini
+yang panjangnya 1.000 meter.</i>
+
+478
+00:41:16,772 --> 00:41:18,751
+<i>Ada penumpang lain yang terbangun.</i>
+
+479
+00:41:18,776 --> 00:41:21,710
+<i>Seorang mekanik bernama Jim Preston.</i>
+
+480
+00:41:23,179 --> 00:41:26,647
+<i>Dia tampaknya sudah terima
+dengan nasib kami.</i>
+
+481
+00:41:26,782 --> 00:41:29,418
+<i>Tapi aku takut.</i>
+
+482
+00:41:29,419 --> 00:41:31,886
+<i>Aku berusaha untuk tetap tenang.</i>
+
+483
+00:41:34,023 --> 00:41:39,160
+<i>Semua penumpang lain akan tertidur
+selama 90 tahun.</i>
+
+484
+00:41:39,895 --> 00:41:45,600
+<i>Sementara aku menjelajahi hidupku di kapal ini...
+melakukan perjalanan selamanya...</i>
+
+485
+00:41:45,835 --> 00:41:48,471
+<i>...tak pernah sampai.</i>
+
+486
+00:41:48,472 --> 00:41:51,739
+<i>Satu-satunya teman bicaraku, orang asing.</i>
+
+487
+00:42:00,116 --> 00:42:01,949
+Kenapa kau melakukan ini?
+
+488
+00:42:03,953 --> 00:42:05,786
+Melakukan apa?
+
+489
+00:42:06,722 --> 00:42:10,059
+Emigrasi.
+Meninggalkan bumi.
+
+490
+00:42:10,060 --> 00:42:11,827
+Aku sedang mewawancaraimu.
+
+491
+00:42:11,828 --> 00:42:13,129
+Kau sedang apa?
+
+492
+00:42:13,130 --> 00:42:16,632
+Kau orang pertama yang mengalami kegagalan
+hibernasi dalam sejarah penerbangan luar angkasa.
+
+493
+00:42:16,633 --> 00:42:18,266
+Itu membuatkanmu sebuah kisah.
+
+494
+00:42:18,768 --> 00:42:21,446
+Memangnya kau mau menceritakannya ke siapa?/
+Anak cucuku.
+
+495
+00:42:21,471 --> 00:42:24,516
+Jadi kenapa kau
+menyerah untuk hidup di bumi?
+
+496
+00:42:24,541 --> 00:42:28,844
+Hibernasi 120 tahun artinya kau takkan
+melihat keluarga ataupun kerabatmu lagi.
+
+497
+00:42:28,845 --> 00:42:32,815
+Kau akan terbangun di abad yang baru,
+di planet yang baru.
+
+498
+00:42:32,816 --> 00:42:35,251
+Ini bunuh diri geografis besar-besaran.
+
+499
+00:42:35,252 --> 00:42:37,536
+Yah, aku bisa bertanya yang sama kepadamu.
+
+500
+00:42:37,561 --> 00:42:39,688
+Tapi ini wawancaraku.
+
+501
+00:42:39,689 --> 00:42:41,728
+Apa kau lari dari sesuatu?
+
+502
+00:42:41,753 --> 00:42:43,230
+Tidak.
+
+503
+00:42:43,460 --> 00:42:45,795
+Semuanya baik-baik saja./ Jadi?
+
+504
+00:42:45,796 --> 00:42:48,664
+Kupikir aku hanya ingin dunia yang baru.
+Aku tidak tahu, awal yang baru.
+
+505
+00:42:48,665 --> 00:42:50,833
+Itu iklan Perusahaan Homestead.
+
+506
+00:42:50,834 --> 00:42:52,301
+Begitukah?/ Jim.
+
+507
+00:42:52,302 --> 00:42:55,102
+Aku... Aku tahu.
+Kurasa, kau memang benar.
+
+508
+00:42:59,575 --> 00:43:03,312
+Kembali ke bumi, saat sesuatu rusak,
+kau bukan memperbaikinya, kau menggantinya.
+
+509
+00:43:03,313 --> 00:43:06,282
+Dalam koloni, mereka punya masalah untuk dipecahkan.
+
+510
+00:43:06,283 --> 00:43:08,749
+Masalah yang berkaitan denganku.
+
+511
+00:43:09,585 --> 00:43:11,921
+Mekanik mirip seperti itu.
+
+512
+00:43:11,922 --> 00:43:14,855
+Ini adalah dunia baru yang masih dibangun.
+
+513
+00:43:16,225 --> 00:43:19,160
+Aku bisa membangun rumah dan hidup di situ.
+
+514
+00:43:23,265 --> 00:43:26,268
+Tanah terbuka,
+ruang untuk tumbuh.
+
+515
+00:43:26,269 --> 00:43:28,003
+Sekarang kau kembali ke slogannya.
+
+516
+00:43:28,004 --> 00:43:30,104
+Tidak bisakah slogan itu benar?
+
+517
+00:43:31,273 --> 00:43:34,944
+Apa kau tahu berapa biaya yang dikeluarkan Perusahaan
+Homestead untuk sampai ke planet pertama ini?
+
+518
+00:43:34,945 --> 00:43:37,046
+8 quadrillion dollar.
+
+519
+00:43:37,047 --> 00:43:39,682
+Itu 8 juta miliar.
+
+520
+00:43:39,683 --> 00:43:42,585
+Planet koloni adalah bisnis terbesar sekarang.
+
+521
+00:43:42,586 --> 00:43:44,453
+Apa kau membayar penuh untuk tiketmu?
+
+522
+00:43:44,454 --> 00:43:46,722
+Tidak, aku adalah pekerja yang disukai.
+
+523
+00:43:46,723 --> 00:43:50,392
+Jadi mereka memenuhi
+kepalamu dengan mimpi,
+
+524
+00:43:50,393 --> 00:43:53,562
+...mendiskon tiketmu, dan kau
+terbang untuk mengisi planet mereka...
+
+525
+00:43:53,563 --> 00:43:56,553
+...dan memberikan Homestead 20% dari
+semua yang kau buat sepanjang hidupmu.
+
+526
+00:43:56,578 --> 00:43:59,744
+Belum lagi dengan utang yang akan kau
+bayar terhadap kapal luar angkasa yang mewah ini.
+
+527
+00:43:59,769 --> 00:44:02,948
+Jadi yang kau lihat disini
+hanya 5.000 alat penghisap?
+
+528
+00:44:02,973 --> 00:44:06,809
+Aku tidak melihatnya di pusat
+Perusahaan Homestead.
+
+529
+00:44:06,810 --> 00:44:10,713
+Aku melihat 5.000 pria dan wanita
+yang mengubah hidupnya.
+
+530
+00:44:10,714 --> 00:44:13,549
+5.000 alasan yang berbeda.
+Kau tidak mengenal orang-orang itu.
+
+531
+00:44:13,550 --> 00:44:17,018
+Aku seorang jurnalis.
+Aku tahu bagaimana seseorang itu.
+
+532
+00:44:17,987 --> 00:44:19,754
+Sungguh?
+
+533
+00:44:19,822 --> 00:44:21,290
+Yang satu ini.
+
+534
+00:44:21,291 --> 00:44:24,358
+Dia bankir, guru, atau tukang kebun?
+
+535
+00:44:25,294 --> 00:44:27,862
+Bankir./ Dia tukang kebun.
+
+536
+00:44:28,831 --> 00:44:34,902
+Dan dia.. Dia Maddison,
+Donna atau Lola?
+
+537
+00:44:35,437 --> 00:44:37,706
+Donna terlalu serius denga rambut itu.
+
+538
+00:44:37,707 --> 00:44:39,273
+Lola.
+
+539
+00:44:39,441 --> 00:44:42,176
+Maddison./ Sial!
+
+540
+00:44:43,819 --> 00:44:44,865
+Baiklah.
+
+541
+00:44:44,890 --> 00:44:46,956
+Koki, akuntan, atau bidan?
+
+542
+00:44:46,983 --> 00:44:49,652
+Dia pasti bidan. Tidak mungkin
+yang lain, kau membuat itu menonjol.
+
+543
+00:44:49,653 --> 00:44:51,385
+Ya. Dia bidan.
+
+544
+00:44:52,388 --> 00:44:55,289
+Aku tidak tahu mereka
+masih punya bidan.
+
+545
+00:44:56,625 --> 00:44:59,695
+Aku suka dia.
+Kami akan berteman.
+
+546
+00:44:59,696 --> 00:45:01,764
+Kau pikir kau bisa melihatnya?
+
+547
+00:45:01,765 --> 00:45:03,831
+Bukankah kau juga?
+
+548
+00:45:05,234 --> 00:45:06,502
+Ya.
+
+549
+00:45:06,503 --> 00:45:07,504
+Tiket pulang pergi?
+
+550
+00:45:08,169 --> 00:45:10,603
+Itu benar.
+Aku akan terbang ke Homestead II..,
+
+551
+00:45:11,028 --> 00:45:13,203
+...hidup selama satu tahun dan
+segera kembali ke bumi.
+
+552
+00:45:13,203 --> 00:45:14,843
+Aku tidak paham. Aku meninggalkan
+bumi untuk hidup yang baru.
+
+553
+00:45:14,844 --> 00:45:16,696
+Tapi kau mengakhirinya
+saat kau baru memulainya?
+
+554
+00:45:16,721 --> 00:45:20,616
+Aku akan berakhir juga di masa depan.
+250 tahun ke depan.
+
+555
+00:45:20,617 --> 00:45:25,461
+Di bumi, yang mana adalah pusat peradaban,
+masih mirip ataupun tidak.
+
+556
+00:45:25,622 --> 00:45:29,225
+Dan aku akan jadi satu-satunya penulis yang
+pernah pergi ke Koloni Dunia lalu kembali lagi.
+
+557
+00:45:29,226 --> 00:45:31,227
+Aku akan punya cerita yang mana
+tidak bisa orang lain ceritakan.
+
+558
+00:45:31,228 --> 00:45:32,661
+Cerita apa?
+
+559
+00:45:32,662 --> 00:45:34,997
+Penerbangan manusia ke bintang.
+
+560
+00:45:34,998 --> 00:45:38,968
+Migrasi terbaik dalam sejarah manusia.
+Itulah cerita terbesarnya.
+
+561
+00:45:38,969 --> 00:45:40,776
+Tapi kau takkan tahu
+orang-orang yang membacanya.
+
+562
+00:45:40,800 --> 00:45:42,966
+Tapi mereka akan membacanya.
+
+563
+00:45:45,007 --> 00:45:47,208
+Mereka akan membacanya.
+
+564
+00:45:48,210 --> 00:45:49,845
+Aku takkan pernah menuliskan ini sekarang.
+
+565
+00:45:49,846 --> 00:45:52,346
+Aku tidak tahu apakah
+aku akan menulis lagi.
+
+566
+00:45:54,206 --> 00:45:57,918
+Jim, aku tidak bisa memikirkan hal lain
+untuk mencoba...
+
+567
+00:45:58,009 --> 00:46:00,209
+...menyelamatkan kita.
+
+568
+00:46:01,523 --> 00:46:04,825
+Dan bahkan aku tidak
+mau memikirkan ini lagi.
+
+569
+00:46:06,428 --> 00:46:08,496
+Apa yang bisa kita lakukan di sekitar sini?
+
+570
+00:46:10,967 --> 00:46:13,660
+Apa kau serius?/ Aku sangat serius.
+
+571
+00:46:13,685 --> 00:46:14,603
+Mode Partner.
+
+572
+00:46:16,828 --> 00:46:19,626
+Ayolah, ke mode kekuatan.
+
+573
+00:46:25,314 --> 00:46:29,083
+Berdiri saja disini,
+lalu ulangi yang mereka lakukan.
+
+574
+00:46:36,392 --> 00:46:38,661
+Apa tidak ada hal lain yang bisa kita lakukan?
+
+575
+00:46:38,662 --> 00:46:39,862
+Lakukan saja.../ Baiklah.
+
+576
+00:46:39,863 --> 00:46:41,430
+Kau tidak harus./
+Baiklah. Aku bisa...
+
+577
+00:46:41,514 --> 00:46:42,608
+<i>Kalah.</i>
+
+578
+00:46:42,633 --> 00:46:43,731
+Hei.
+
+579
+00:46:44,200 --> 00:46:46,088
+Ayo kita mulai.
+Lihat saja jika... Oh.
+
+580
+00:46:46,088 --> 00:46:48,021
+Whoa!
+Whoa!
+
+581
+00:46:48,506 --> 00:46:50,733
+Oh.
+Kenapa kau tersenyum?
+
+582
+00:46:50,940 --> 00:46:53,208
+Aku mencetak 2 poin.
+
+583
+00:46:53,209 --> 00:46:54,743
+Siapa nona tercinta ini?
+
+584
+00:46:54,744 --> 00:46:56,078
+Ini Aurora.
+
+585
+00:46:56,079 --> 00:46:59,046
+Aurora.
+Senang bisa mengenalmu.
+
+586
+00:47:00,816 --> 00:47:02,785
+Aku tidak bisa./
+Kau melakukannya dengan bagus!
+
+587
+00:47:02,786 --> 00:47:05,386
+Baiklah. Sekali lagi.
+Sekali lagi. Lihat saja.
+
+588
+00:47:05,300 --> 00:47:07,315
+Fantasi Drama
+
+589
+00:47:11,346 --> 00:47:12,860
+Oh!
+
+590
+00:47:16,933 --> 00:47:18,691
+Ya!/ Woo!
+
+591
+00:47:21,071 --> 00:47:23,238
+Aku bersumpah, aku tidak memakai
+celana selama sebulan.
+
+592
+00:47:23,239 --> 00:47:25,762
+7 minggu 2 hari tepatnya.
+
+593
+00:47:25,787 --> 00:47:27,254
+Pria memang tidak punya rasa malu.
+
+594
+00:47:27,279 --> 00:47:30,680
+Yah, kau sedikit kekurangan dan
+kau agak merendahkan dirimu, Arthur.
+
+595
+00:47:32,981 --> 00:47:37,484
+Aku tertawa kepada pria tanpa celana dalam
+sampai kusadari aku tidak punya kaki.
+
+596
+00:47:43,158 --> 00:47:46,228
+Untuk sebentar, aku hampir lupa
+kalau hidupku tidak hancur.
+
+597
+00:47:46,229 --> 00:47:48,162
+Maafkan aku.
+
+598
+00:47:48,163 --> 00:47:50,297
+Untuk apa?
+
+599
+00:47:50,999 --> 00:47:53,200
+Aku mau tidur.
+
+600
+00:47:53,365 --> 00:47:54,895
+Selamat malam./ Baiklah.
+
+601
+00:47:54,920 --> 00:47:56,844
+Selamat malam, Aurora.
+
+602
+00:47:59,541 --> 00:48:01,909
+Dia luar biasa.
+
+603
+00:48:02,628 --> 00:48:04,829
+Pilihan tepat.
+
+604
+00:49:31,900 --> 00:49:33,467
+Halo.
+
+605
+00:49:33,535 --> 00:49:35,237
+<i>Hai.</i>
+
+606
+00:49:35,238 --> 00:49:37,037
+Ini dia.
+
+607
+00:49:42,578 --> 00:49:45,145
+<i>Apa dia memintaku untuk kencan?</i>
+
+608
+00:49:46,983 --> 00:49:49,149
+Kau butuh pulpen?
+
+609
+00:50:00,896 --> 00:50:03,430
+Dia tampaknya tidak terkesan.
+
+610
+00:50:20,816 --> 00:50:23,717
+"Suka."
+Dia menulis "Suka".
+
+611
+00:50:31,160 --> 00:50:33,427
+<i>Anda punya tamu.</i>
+
+612
+00:50:51,313 --> 00:50:52,583
+Wow.
+
+613
+00:50:52,608 --> 00:50:55,276
+Kau membersihkan dirimu dengan cukup baik
+
+614
+00:50:55,451 --> 00:50:59,484
+Kau pergi belanja./
+Aku mencuri di toko.
+
+615
+00:51:03,392 --> 00:51:05,961
+Sore.
+Apa yang bisa kuberikan padamu?
+
+616
+00:51:05,962 --> 00:51:08,729
+Aku ingin Manhattan.
+
+617
+00:51:09,464 --> 00:51:12,132
+Wiski rocks./
+Segera datang.
+
+618
+00:51:19,708 --> 00:51:21,577
+Kalian berdua terlihat baik sore ini.
+
+619
+00:51:21,585 --> 00:51:23,070
+Terima kasih, Arthur.
+
+620
+00:51:23,095 --> 00:51:24,692
+Kami sedang berkencan!
+
+621
+00:51:24,692 --> 00:51:26,715
+Baguslah!
+
+622
+00:51:26,716 --> 00:51:28,850
+Butuh waktu lama bagimu untuk bertanya.
+
+623
+00:51:28,851 --> 00:51:30,984
+Aku memberimu luar angkasa.
+
+624
+00:51:30,985 --> 00:51:32,021
+Oh.
+
+625
+00:51:32,188 --> 00:51:36,256
+'Luar angkasa', satu hal yang tidak kubutuhkan lagi.
+
+626
+00:51:42,230 --> 00:51:43,632
+Itu sangat bagus.
+
+627
+00:51:43,633 --> 00:51:45,400
+Yah, ini tidaklah mudah
+untuk mereservasi.
+
+628
+00:51:45,401 --> 00:51:47,936
+Mereka mungkin menginginkan
+kita untuk menyerah dengan meja kita.
+
+629
+00:51:47,937 --> 00:51:52,706
+Mmm Hmm, aku kelihatan kotor./
+Malam ini sangat populer.
+
+630
+00:51:52,908 --> 00:51:54,643
+Jadi bagaimana kemajuan bukumu?
+
+631
+00:51:54,644 --> 00:51:57,746
+Yah, aku belum benar-benar tahu apa ini.
+
+632
+00:51:57,747 --> 00:51:59,781
+Ayahku, dia selalu menulis
+tentang hidupnya..,
+
+633
+00:51:59,782 --> 00:52:01,550
+...tapi dia punya banyak kisah.
+
+634
+00:52:01,551 --> 00:52:05,185
+Dia berlayar di sekitar Antartika.
+
+635
+00:52:05,387 --> 00:52:09,491
+Dia adalah wartawan perang.
+Dia... punya penggemar.
+
+636
+00:52:09,492 --> 00:52:11,425
+Dia menulis tentang putrinya.
+
+637
+00:52:11,526 --> 00:52:12,679
+Dia menulis tentangmu?
+
+638
+00:52:12,704 --> 00:52:15,297
+Ya. Aku tumbuh dengan membaca
+tentang diriku sendiri di bukunya.
+
+639
+00:52:15,298 --> 00:52:17,164
+Bagaimana itu?
+
+640
+00:52:17,666 --> 00:52:19,086
+Tidak selalu mudah.
+
+641
+00:52:19,111 --> 00:52:22,004
+Sedikit lebih banyak dari yang kau
+inginkan untuk mengetahui siapa dirimu.
+
+642
+00:52:22,005 --> 00:52:27,661
+Lalu, saat aku 17 tahun,
+dia terkena serangan jantung.
+
+643
+00:52:28,491 --> 00:52:30,691
+Tepat diatas keypad-nya.
+
+644
+00:52:30,997 --> 00:52:33,131
+Cerita berakhir.
+
+645
+00:52:35,584 --> 00:52:38,685
+Oh, serius sekali.
+Maafkan aku.
+
+646
+00:52:38,710 --> 00:52:39,911
+Kita butuh wine lebih banyak.
+
+647
+00:52:39,936 --> 00:52:42,302
+Aku senang mendengar tentang hidupmu.
+
+648
+00:52:43,158 --> 00:52:45,325
+Terima kasih.
+
+649
+00:52:46,828 --> 00:52:48,430
+Kenapa kita disini?
+
+650
+00:52:48,431 --> 00:52:50,330
+Kau akan tahu.
+
+651
+00:52:51,633 --> 00:52:53,867
+Pertunjukan terbaik di kota.
+
+652
+00:52:56,973 --> 00:52:59,092
+Jadi kau sudah pernah melakukan ini sebelumnya?
+
+653
+00:52:59,117 --> 00:53:00,652
+Oh ya.
+
+654
+00:53:00,677 --> 00:53:02,221
+Dan ini aman?
+
+655
+00:53:02,246 --> 00:53:04,213
+Tidak.
+
+656
+00:53:04,714 --> 00:53:06,713
+Cukup aman.
+
+657
+00:53:07,683 --> 00:53:10,584
+Bergabunglah.
+Kau selanjutnya.
+
+658
+00:53:11,634 --> 00:53:13,601
+Bagaimana dengan gaunku?
+
+659
+00:53:15,724 --> 00:53:17,491
+Benar.
+
+660
+00:53:19,795 --> 00:53:21,962
+Berbaliklah.
+
+661
+00:53:52,176 --> 00:53:54,276
+<i>Tali pengait terpasang.</i>
+
+662
+00:54:34,636 --> 00:54:36,371
+Apa yang kau lakukan?
+
+663
+00:54:36,372 --> 00:54:37,971
+Apa kau mempercayaiku?
+
+664
+00:55:24,886 --> 00:55:27,020
+Terima kasih.
+
+665
+00:56:15,337 --> 00:56:18,472
+Kau adalah wanita tercantik yang
+pernah kulihat.
+
+666
+00:56:21,409 --> 00:56:24,010
+Kau membunuhku.
+
+667
+00:57:05,720 --> 00:57:07,789
+Kau baik-baik saja?
+
+668
+00:57:07,790 --> 00:57:09,856
+Ya.
+
+669
+00:57:10,892 --> 00:57:12,727
+Aku baik-baik saja.
+
+670
+00:57:12,728 --> 00:57:14,861
+Hanya saja...
+
+671
+00:57:21,770 --> 00:57:24,004
+Ya, aku tahu.
+
+672
+00:57:38,987 --> 00:57:41,823
+<i>Jadi, aku bertemu seseorang.</i>
+
+673
+00:57:41,824 --> 00:57:44,124
+<i>Kalian takkan pernah menebak siapa.</i>
+
+674
+00:57:44,759 --> 00:57:48,862
+<i>Kami adalah 2 manusia terakhir di dunia
+yang harus bersama.</i>
+
+675
+00:57:48,863 --> 00:57:50,432
+<i>Tapi inilah kami.</i>
+
+676
+00:57:50,433 --> 00:57:52,567
+<i>2 manusia terakhir di dunia.</i>
+
+677
+00:57:52,568 --> 00:57:53,468
+Apa itu?
+
+678
+00:57:53,469 --> 00:57:56,271
+Aku sedang menulis, Arthur.
+Hush.
+
+679
+00:57:56,272 --> 00:57:59,140
+<i>Jim dan aku hidup
+dalam kecelakaan yang membahagiakan.</i>
+
+680
+00:57:59,141 --> 00:58:02,377
+<i>Seperti orang yang terdampar membuat
+rumah mereka di pantai asing.</i>
+
+681
+00:58:02,378 --> 00:58:04,546
+"pantai asing".
+Aku suka ini.
+
+682
+00:58:04,547 --> 00:58:06,114
+Kau suka?
+Kau tidak harus mengatakan itu.
+
+683
+00:58:06,115 --> 00:58:08,882
+Aku tahu./ Kau takkan memakan ini?
+
+684
+00:58:10,553 --> 00:58:12,786
+Apa itu terlihat amis bagimu?
+
+685
+00:58:14,055 --> 00:58:15,957
+Teruslah membaca.
+
+686
+00:58:15,958 --> 00:58:17,592
+<i>Ini lucu.</i>
+
+687
+00:58:17,593 --> 00:58:19,961
+<i>Kami semua punya mimpi.</i>
+
+688
+00:58:19,962 --> 00:58:24,132
+<i>Kami merencanakan masa depan kami
+dan kami adalah kapten dari nasib kami.</i>
+
+689
+00:58:24,133 --> 00:58:25,834
+<i>Tapi kami adalah penumpang.</i>
+
+690
+00:58:25,835 --> 00:58:28,601
+<i>Kami pergi kemana takdir akan membawa kami.</i>
+
+691
+00:58:31,540 --> 00:58:32,707
+Arthur!
+
+692
+00:58:32,708 --> 00:58:34,642
+<i>Ini bukanlah hidup yang kami rencanakan.</i>
+
+693
+00:58:34,643 --> 00:58:36,187
+<i>Tapi inilah milik kami.</i>
+
+694
+00:58:36,188 --> 00:58:38,889
+<i>Dan untuk pertama kalinya dalam hidupku..,</i>
+
+695
+00:58:38,914 --> 00:58:41,214
+<i>Aku tidak merasa sendirian.</i>
+
+696
+00:58:43,318 --> 00:58:46,186
+<i>Kami seharusnya tidak bertemu
+satu sama lain..,</i>
+
+697
+00:58:47,055 --> 00:58:49,424
+<i>...tapi kami bertemu.</i>
+
+698
+00:58:49,425 --> 00:58:52,727
+<i>Dia membuatku merasa
+bahwa hidupku belum berakhir.</i>
+
+699
+00:58:52,728 --> 00:58:55,228
+<i>Rasanya seperti ini hanyalah permulaan.</i>
+
+700
+00:58:55,530 --> 00:58:56,698
+Bagaimana harimu?
+
+701
+00:58:56,699 --> 00:58:58,800
+Bagus, aku menulis beberapa halaman.
+
+702
+00:58:58,801 --> 00:59:01,701
+Apa kau menemukan sesuatu
+yang bisa membantu kita?
+
+703
+00:59:04,806 --> 00:59:07,108
+Ya./ Apa ini nyata?
+
+704
+00:59:07,109 --> 00:59:10,911
+Aku memotongnya sendiri./
+Oh, wow!
+
+705
+00:59:12,347 --> 00:59:15,949
+Kau tahu untuk 2 orang yang tidak beruntung,
+rasanya kita memang cukup beruntung.
+
+706
+00:59:20,823 --> 00:59:22,223
+<i>Perhatian.</i>
+
+707
+00:59:22,224 --> 00:59:25,860
+<i>Mungkin Anda ingin
+pergi ke Viewing Area.</i>
+
+708
+00:59:25,861 --> 00:59:29,564
+<i>Avalon akan mengitari
+bintang Arcturus.</i>
+
+709
+00:59:29,565 --> 00:59:33,667
+Lihatlah./
+Ya ampun.
+
+710
+01:00:08,270 --> 01:00:10,804
+Tadi itu menakjubkan.
+
+711
+01:00:11,903 --> 01:00:14,104
+Merah raksasa.
+
+712
+01:00:18,146 --> 01:00:20,747
+Alam semesta dihadiahkan untukmu.
+
+713
+01:00:20,748 --> 01:00:22,782
+Apa?
+
+714
+01:00:23,218 --> 01:00:25,885
+Selamat ulang tahun.
+
+715
+01:00:31,938 --> 01:00:39,938
+<i>Selamat ulang tahun...
+Selamat ulang tahun...</i>
+
+716
+01:00:40,583 --> 01:00:45,037
+<i>Selamat ulang tahun, Aurora tersayang...</i>
+
+717
+01:00:45,062 --> 01:00:49,474
+<i>Selamat ulang tahun.</i>
+
+718
+01:00:50,612 --> 01:00:53,148
+Minuman ulang tahun untuk
+gadis yang berulang tahun.
+
+719
+01:00:53,149 --> 01:00:55,772
+Kau tidak mau meminta ID-ku?
+Mungkin aku belum cukup umur untuk minum.
+
+720
+01:00:55,797 --> 01:00:58,453
+Oh, aku takkan menanyakan umurmu
+di depan pria yang baik hati.
+
+721
+01:00:58,454 --> 01:00:59,888
+Jim bukan pria yang baik hati.
+
+722
+01:00:59,889 --> 01:01:03,223
+Meskipun begitu, tidak ada rahasia
+antara aku dan Jim.
+
+723
+01:01:03,825 --> 01:01:05,193
+Apa begitu?
+
+724
+01:01:05,194 --> 01:01:08,800
+Kau sudah mendengarnya dari si nona.
+Aku akan segera kembali.
+
+725
+01:01:22,844 --> 01:01:25,547
+Ini pesta minum ulang tahun yang sempurna,
+terima kasih.
+
+726
+01:01:25,548 --> 01:01:28,716
+Aku ingat hari ini,
+setahun yang lalu.
+
+727
+01:01:28,717 --> 01:01:31,918
+Jim sangat berharap untuk
+bertemu denganmu.
+
+728
+01:01:32,086 --> 01:01:33,755
+Apa?
+
+729
+01:01:33,756 --> 01:01:35,757
+Bagaimana bisa dia sangat berharap
+untuk ini?
+
+730
+01:01:35,758 --> 01:01:39,360
+Oh, dia menghabiskan berbulan-bulan
+untuk memutuskan apakah dia akan membangunkanmu.
+
+731
+01:01:39,361 --> 01:01:42,729
+Dia tidak bisa berhenti berbicara tentangmu.
+
+732
+01:01:46,234 --> 01:01:48,468
+Jim membangunkanku?
+
+733
+01:01:48,803 --> 01:01:50,638
+Oh, ya.
+
+734
+01:01:50,639 --> 01:01:53,641
+Dia bilang itu adalah keputusan tersulit
+dalam hidupnya..,
+
+735
+01:01:53,642 --> 01:01:57,043
+...tapi kulihat ini berjalan
+dengan baik-baik saja.
+
+736
+01:02:08,723 --> 01:02:10,757
+Apa?
+
+737
+01:02:12,760 --> 01:02:15,195
+Apa kau membangunkanku?
+
+738
+01:02:22,203 --> 01:02:24,104
+Ya.
+Aku membangunkanmu.
+
+739
+01:02:28,109 --> 01:02:30,044
+Bagaimana...
+
+740
+01:02:30,045 --> 01:02:31,978
+Bagaimana bisa kau melakukan ini?
+
+741
+01:02:34,415 --> 01:02:36,483
+Aku sudah mencoba untuk tidak melakukannya.
+
+742
+01:02:42,423 --> 01:02:44,791
+Aku akan jatuh sakit.
+
+743
+01:02:45,193 --> 01:02:47,494
+Aku tidak bisa melihat!
+
+744
+01:02:48,643 --> 01:02:50,177
+Aurora, kumohon.
+
+745
+01:02:50,202 --> 01:02:53,336
+Menjauhlah dariku!
+
+746
+01:02:56,238 --> 01:02:57,666
+Aku tidak bisa  turun dari kapal ini.
+
+747
+01:02:57,691 --> 01:03:01,025
+Aku tidak bisa turun dari kapal ini.
+Aku tidak bisa turun...
+
+748
+01:04:16,150 --> 01:04:18,351
+Bisakah aku berbicara denganmu?
+
+749
+01:05:46,240 --> 01:05:47,942
+<i>Aurora.</i>
+
+750
+01:05:47,943 --> 01:05:51,746
+<i>Aku tahu tidak ada yang bisa kukatakan
+agar ini jadi baik-baik saja.</i>
+
+751
+01:05:51,747 --> 01:05:53,881
+<i>Tapi kumohon dengarkan.</i>
+
+752
+01:05:53,882 --> 01:05:56,184
+Aku sendirian...
+
+753
+01:05:56,185 --> 01:05:58,384
+...begitu lama.
+
+754
+01:05:59,220 --> 01:06:01,420
+Aku merasa seperti aku menghilang.
+
+755
+01:06:02,123 --> 01:06:06,092
+Malam pertama saat aku melihatmu,
+aku bersiap untuk...
+
+756
+01:06:08,629 --> 01:06:10,530
+Kau menyelamatkan hidupku.
+
+757
+01:06:13,000 --> 01:06:17,070
+<i>Dan aku tahu tidak ada maaf
+atas perbuatanku.</i>
+
+758
+01:06:17,438 --> 01:06:19,740
+<i>Aku membaca semua tulisanmu.</i>
+
+759
+01:06:19,741 --> 01:06:23,377
+<i>Dan aku jatuh cinta dengan suaramu...</i>
+
+760
+01:06:23,378 --> 01:06:26,347
+<i>...dan dengan cara berpikirmu.</i>
+
+761
+01:06:26,348 --> 01:06:29,415
+<i>Aku jatuh cinta kepadamu.</i>
+
+762
+01:06:30,051 --> 01:06:31,953
+<i>Dan tiba-tiba..,</i>
+
+763
+01:06:31,954 --> 01:06:35,957
+...rasanya aku tidak terjebak lagi.
+
+764
+01:06:35,958 --> 01:06:40,126
+Hidupku yang sia-sia
+tiba-tiba memiliki makna.
+
+765
+01:06:41,696 --> 01:06:44,530
+Dan kuharap aku bisa menarik perbuatanku.
+
+766
+01:06:45,399 --> 01:06:47,567
+<i>Tapi aku tidak bisa.</i>
+
+767
+01:06:48,202 --> 01:06:50,071
+<i>Aurora, aku tidak ingin kehilanganmu.</i>
+
+768
+01:06:50,072 --> 01:06:52,373
+Aku tidak peduli!!!
+
+769
+01:06:52,374 --> 01:06:54,642
+Aku tidak peduli dengan yang kau mau!
+
+770
+01:06:54,643 --> 01:06:57,712
+Aku tidak peduli kenapa
+kau membangunkanku!
+
+771
+01:06:57,713 --> 01:07:01,214
+Kau mengambil hidupku!
+
+772
+01:07:23,438 --> 01:07:24,972
+<i>Harap tenang.</i>
+
+773
+01:07:24,973 --> 01:07:28,741
+<i>Pusat kendali suite Anda sedang mereboot.</i>
+
+774
+01:07:47,681 --> 01:07:49,590
+MENDIAGNOSA KEGAGALAN
+SISTEM
+
+775
+01:07:49,615 --> 01:07:52,519
+MENDIAGNOSA KEGAGALAN SISTEM
+ERROR BERAT
+
+776
+01:08:03,545 --> 01:08:05,845
+Aku iri kepadamu, Arthur.
+
+777
+01:08:06,047 --> 01:08:07,481
+Bagaimana bisa?
+
+778
+01:08:07,482 --> 01:08:09,782
+Kau punya tujuan.
+
+779
+01:08:11,719 --> 01:08:13,553
+Kau selalu bahagia.
+
+780
+01:08:14,021 --> 01:08:16,557
+Bagaimana kemajuan bukumu?
+
+781
+01:08:16,558 --> 01:08:18,926
+Aku tidak pernah menulis
+tentangku sebelumnya.
+
+782
+01:08:18,927 --> 01:08:20,895
+Kurasa ini salah satu dari
+pekerjaan terbaik yang pernah kulakukan..,
+
+783
+01:08:20,896 --> 01:08:23,831
+...dan bahkan aku tidak tahu
+apa yang kulakukan ini.
+
+784
+01:08:23,832 --> 01:08:27,168
+Hanya ada satu orang yang mampu
+membacanya dan aku tidak bisa tahan dengannya.
+
+785
+01:08:27,169 --> 01:08:31,471
+Mereka mengatakan waktu
+menyembuhkan semua luka.
+
+786
+01:08:33,908 --> 01:08:36,809
+Patah hati tidak sesederhana itu, Arthur
+
+787
+01:08:38,913 --> 01:08:41,214
+Kau takkan mengerti.
+
+788
+01:08:42,175 --> 01:08:44,343
+Arthur!
+
+789
+01:08:48,055 --> 01:08:50,197
+Selasa adalah hariku dengan Arthur.
+
+790
+01:08:50,222 --> 01:08:52,158
+Ini hari Rabu.
+
+791
+01:08:59,533 --> 01:09:01,400
+Bar-nya milikmu semua.
+
+792
+01:09:09,910 --> 01:09:12,178
+Kau mau apa?
+Wiski?
+
+793
+01:09:13,039 --> 01:09:14,530
+Kopi.
+
+794
+01:09:14,555 --> 01:09:16,617
+<i>Aurora, kami mencintaimu!/
+Aurora, kami mencintaimu!</i>
+
+795
+01:09:16,618 --> 01:09:19,585
+<i>Apa yang akan kami lakukan tanpamu?
+Kami akan merindukanmu</i>
+
+796
+01:09:21,123 --> 01:09:22,690
+<i>Kau adalah wanita terberani yang kukenal.</i>
+
+797
+01:09:22,691 --> 01:09:24,291
+<i>Dah, Aurora!</i>
+
+798
+01:09:24,292 --> 01:09:28,129
+<i>Aku berjanji kalau aku akan
+memikirkanmu setiap hari.</i>
+
+799
+01:09:28,130 --> 01:09:30,297
+<i>Saat kau bangun aku sudah tiada..,</i>
+
+800
+01:09:30,298 --> 01:09:33,968
+<i>...tapi ketahuilah aku
+takkan melupakanmu.</i>
+
+801
+01:09:33,969 --> 01:09:36,704
+<i>Kau adalah sahabat terbaikku.</i>
+
+802
+01:09:36,705 --> 01:09:39,674
+<i>Kau tidak pernah bahagia di sini,
+aku tahu.</i>
+
+803
+01:09:39,675 --> 01:09:42,542
+<i>Tidak ada yang cukup bagimu.</i>
+
+804
+01:09:43,310 --> 01:09:45,379
+<i>Kau tahu, kau tidak harus pergi.
+Kau bisa--</i>
+
+805
+01:09:45,380 --> 01:09:49,482
+<i>Kau bisa melakukan apapun yang harus
+kau lakukan di sini.</i>
+
+806
+01:09:50,451 --> 01:09:52,019
+<i>Tapi...</i>
+
+807
+01:09:52,020 --> 01:09:55,855
+<i>Semenjak kau pergi,
+inilah harapanku.</i>
+
+808
+01:09:57,324 --> 01:10:00,300
+<i>Kuharap kau akan menemukan seseorang
+yang akan mengisi hatimu.</i>
+
+809
+01:10:00,325 --> 01:10:05,666
+<i>Dan kuharap kau membiarkannya masuk (ke hati).</i>
+
+810
+01:10:05,667 --> 01:10:10,901
+<i>Kuharap kau sadar kalau kau tidak harus
+melakukan hal menakjubkan untuk bahagia.</i>
+
+811
+01:10:12,223 --> 01:10:13,601
+<i>Kau tahu...</i>
+
+812
+01:10:13,626 --> 01:10:15,275
+<i>Bersenang-senanglah.</i>
+
+813
+01:10:15,776 --> 01:10:18,244
+<i>Ambilah kesempatan.</i>
+
+814
+01:10:19,151 --> 01:10:21,586
+<i>Um, baiklah.</i>
+
+815
+01:10:22,362 --> 01:10:24,496
+<i>Aku mencintaimu, Aurora.</i>
+
+816
+01:10:24,719 --> 01:10:26,719
+<i>Dah.</i>
+
+817
+01:10:28,889 --> 01:10:30,825
+Pagi, Arthur!
+
+818
+01:10:30,878 --> 01:10:31,909
+Tolong kopi.
+
+819
+01:10:31,934 --> 01:10:33,346
+Segera datang.
+
+820
+01:10:38,641 --> 01:10:40,701
+Apa kau mengotori kursi bar-ku?
+
+821
+01:10:40,702 --> 01:10:44,071
+Kau mau membuat sesuatu,
+tanganmu harus rela kotor.
+
+822
+01:10:44,072 --> 01:10:47,873
+Dan apa yang sudah kau perbuat?/
+Perbaikan.
+
+823
+01:10:48,309 --> 01:10:50,876
+<i>Grand Concourse.</i>
+
+824
+01:11:17,404 --> 01:11:19,238
+<i>Lantai satu.</i>
+
+825
+01:11:31,887 --> 01:11:33,999
+Sarapan kelas Gold.
+
+826
+01:11:34,024 --> 01:11:35,361
+Huh!
+
+827
+01:11:49,805 --> 01:11:53,307
+<i>Ini Dek Kepala Gus Mancuso.</i>
+
+828
+01:11:53,308 --> 01:11:57,076
+<i>Siapa yang menanam
+pohon di kapalku?</i>
+
+829
+01:12:17,932 --> 01:12:20,501
+Siapa yang melakukan itu?/ Aku.
+
+830
+01:12:20,502 --> 01:12:21,735
+Siapa kau?
+
+831
+01:12:21,736 --> 01:12:23,502
+Jim Preston.
+
+832
+01:12:24,505 --> 01:12:26,072
+Aurora Lane.
+
+833
+01:12:26,290 --> 01:12:27,641
+Apa ada orang lain yang terbangun?
+
+834
+01:12:27,642 --> 01:12:29,696
+Hanya aku dan dia.
+
+835
+01:12:29,721 --> 01:12:32,046
+Masih seberapa lama kita?
+
+836
+01:12:32,047 --> 01:12:33,979
+88 tahun hingga sampai.
+
+837
+01:12:41,848 --> 01:12:44,884
+Kegagalan hibernasi.
+
+838
+01:12:45,026 --> 01:12:46,894
+Mereka bilang itu
+tidak mungkin terjadi.
+
+839
+01:12:46,895 --> 01:12:50,863
+Tapi tiga orang,
+Tiga kegagalan pod.
+
+840
+01:12:55,336 --> 01:12:58,205
+Kau tidak tahu seberapa lamanya
+aku mencoba untuk masuk kesini.
+
+841
+01:12:58,206 --> 01:13:00,474
+Sekarang kau sudah masuk.
+Jangan sentuh apapun.
+
+842
+01:13:00,475 --> 01:13:02,142
+Ini tempatmu bekerja?
+
+843
+01:13:02,143 --> 01:13:04,678
+Bukan, ini tempat awak penerbangan.
+Aku berada di Dek Kepala.
+
+844
+01:13:05,780 --> 01:13:08,647
+OPS,
+Komputer Navigasi..
+
+845
+01:13:10,675 --> 01:13:13,786
+<i>Personil tidak berijin.</i>
+
+846
+01:13:14,005 --> 01:13:15,606
+Maaf.
+
+847
+01:13:17,259 --> 01:13:20,461
+Jika aku membaca ini,
+kita masih berada di jalur.
+
+848
+01:13:20,462 --> 01:13:23,297
+Jadi apapun yang salah dengan kapal ini,
+Komputer Navigasi masih tetap ada pada tugasnya.
+
+849
+01:13:23,298 --> 01:13:24,885
+Apa ada sesutau yang salah dengan kapal ini?
+
+850
+01:13:24,910 --> 01:13:27,000
+Tiga kegagalan pod?
+Yeah.
+
+851
+01:13:27,080 --> 01:13:29,904
+Ada sesuatu yang salah.
+Pertanyaannya adalah apa.
+
+852
+01:13:31,906 --> 01:13:33,340
+Itu aneh.
+
+853
+01:13:33,341 --> 01:13:36,076
+Kita harusnya mendapat diagnosa
+dari seluruh pesawat disini..,
+
+854
+01:13:36,077 --> 01:13:38,711
+...tapi tidak ada data.
+
+855
+01:13:39,914 --> 01:13:41,515
+Kita harus mengecek
+seluruh sistem secara manual.
+
+856
+01:13:41,516 --> 01:13:43,601
+Bisakah kita membelokkan kapal ini?
+Kembali ke bumi?
+
+857
+01:13:43,626 --> 01:13:45,552
+Kecepatan kita 50%
+dari kecepatan cahaya.
+
+858
+01:13:45,553 --> 01:13:47,488
+Kembali lagi akan memakan waktu
+yang sama seperti saat pergi.
+
+859
+01:13:47,489 --> 01:13:49,356
+Pasti ada sesuatu yang bisa kita lakukan!
+
+860
+01:13:49,357 --> 01:13:52,491
+Maaf, kami pergi kemana kami akan pergi.
+
+861
+01:13:54,496 --> 01:13:56,061
+Kau baik-baik saja?
+
+862
+01:13:56,764 --> 01:13:58,599
+Mabuk hibernasi.
+
+863
+01:13:58,600 --> 01:14:00,567
+Seperti ini setiap waktu.
+
+864
+01:14:00,568 --> 01:14:02,503
+<i>Grand Concourse.</i>
+
+865
+01:14:02,504 --> 01:14:06,050
+Dua tahun, huh?
+Ada pohon lagi yang harus kuketahui?
+
+866
+01:14:06,075 --> 01:14:07,841
+Awas!
+
+867
+01:14:12,012 --> 01:14:13,560
+Aku tidak pernah melihat
+ini terjadi sebelumnya.
+
+868
+01:14:13,585 --> 01:14:15,582
+Robot-robot itu sudah rusak.
+
+869
+01:14:15,583 --> 01:14:18,851
+Ditambah ini jadi 15?
+
+870
+01:14:18,852 --> 01:14:20,120
+15.
+
+871
+01:14:20,121 --> 01:14:21,588
+Bilah sarapannya berputar menggila hari ini.
+
+872
+01:14:21,589 --> 01:14:22,756
+Dan elevatornya.
+
+873
+01:14:22,757 --> 01:14:25,542
+Minggu lalu pintuku rusak.
+Aku terjebak di kabinku selama 2 hari.
+
+874
+01:14:25,567 --> 01:14:27,428
+Begitukah?
+
+875
+01:14:27,429 --> 01:14:30,664
+Hal seperti itu tidak terjadi.
+Tidak di kapal ini.
+
+876
+01:14:30,665 --> 01:14:33,699
+Ada 16 pos teknologi seperti ini
+di setiap dek.
+
+877
+01:14:33,934 --> 01:14:35,636
+Masuk ke galangan.
+
+878
+01:14:35,637 --> 01:14:37,271
+Masukan datanya secara otomatis,
+kalian paham?
+
+879
+01:14:37,272 --> 01:14:39,161
+Mm./ Ya./ Baiklah
+
+880
+01:14:39,186 --> 01:14:41,508
+Kau urus Dek 1 dan 2.
+Kau urus Dek 3 dan 4.
+
+881
+01:14:41,509 --> 01:14:46,146
+Aku akan turun ke Ruang Hibernasi,
+untuk mengecek pod kita.
+
+882
+01:14:46,147 --> 01:14:48,514
+Sekarang pasti itu menarik.
+
+883
+01:14:58,359 --> 01:15:00,859
+Bukankah seharusnya kau berkeliling?
+
+884
+01:15:01,378 --> 01:15:03,145
+Aku sudah selesai.
+
+885
+01:15:05,263 --> 01:15:07,597
+Aku mengecek podmu.
+
+886
+01:15:07,802 --> 01:15:10,571
+Masalahnya sangat sederhana.
+Chip penguncinya terbakar.
+
+887
+01:15:10,572 --> 01:15:13,440
+Hal ini tidak seharusnya terjadi,
+tapi cukup sederhana.
+
+888
+01:15:13,441 --> 01:15:15,242
+Pod-ku lebih membingungkan.
+
+889
+01:15:15,243 --> 01:15:18,078
+Sekumpulan kegagalan sistem,
+itu semua terjadi bersamaan.
+
+890
+01:15:18,079 --> 01:15:20,479
+Semua kerusakan sialan.
+
+891
+01:15:22,183 --> 01:15:24,585
+Menjelaskan kenapa aku merasa begitu buruk.
+
+892
+01:15:24,586 --> 01:15:26,585
+Tapi pod milik Aurora...
+
+893
+01:15:29,990 --> 01:15:32,224
+Kau yang melakukan ini.
+
+894
+01:15:33,994 --> 01:15:35,095
+Ya.
+
+895
+01:15:35,096 --> 01:15:36,363
+Selama ini, aku berpikir...
+
+896
+01:15:36,364 --> 01:15:39,965
+...kalau kau adalah keparat yang beruntung
+bisa terjebak dengan Aurora.
+
+897
+01:15:42,736 --> 01:15:45,072
+Ini bukan keberuntungan, kan?
+
+898
+01:15:45,073 --> 01:15:46,173
+Bukan.
+
+899
+01:15:46,174 --> 01:15:48,007
+Dia tahu?
+
+900
+01:15:48,008 --> 01:15:49,875
+Dia tahu.
+
+901
+01:15:51,278 --> 01:15:53,080
+Berapa lama kau sendirian?
+
+902
+01:15:53,081 --> 01:15:55,147
+Satu tahun.
+
+903
+01:15:58,085 --> 01:16:00,119
+Tetap...
+
+904
+01:16:01,367 --> 01:16:03,534
+Sialan.
+
+905
+01:16:08,695 --> 01:16:11,330
+<i>Data diterima.</i>
+
+906
+01:16:14,168 --> 01:16:16,135
+<i>Data diterima.</i>
+
+907
+01:16:20,240 --> 01:16:21,508
+<i>Data diterima.</i>
+
+908
+01:16:21,509 --> 01:16:22,376
+Sama seperti milik Jim.
+
+909
+01:16:22,377 --> 01:16:23,811
+<i>Menginterpolasi data.</i>
+
+910
+01:16:23,812 --> 01:16:25,646
+Sistemnya mati.
+
+911
+01:16:25,647 --> 01:16:28,881
+Dimana-mana, tapi tidak ada hubungan nyata.
+
+912
+01:16:30,084 --> 01:16:32,151
+Kau melihat pod hibernasinya?
+
+913
+01:16:32,619 --> 01:16:34,219
+Aku sudah melihatnya.
+
+914
+01:16:34,822 --> 01:16:35,786
+<i>Data diterima.</i>
+
+915
+01:16:35,811 --> 01:16:37,777
+Jadi kau tahu.
+
+916
+01:16:38,625 --> 01:16:40,192
+Apa yang Jim lakukan.
+
+917
+01:16:42,441 --> 01:16:44,442
+Ya.
+
+918
+01:16:44,731 --> 01:16:46,200
+Dan?
+
+919
+01:16:46,201 --> 01:16:49,203
+Itu bukan tanggung jawabku.../
+Dia membangunkanku!
+
+920
+01:16:49,204 --> 01:16:51,571
+Dia mengambil hidupku!/
+Aku tahu dan aku minta maaf.
+
+921
+01:16:52,100 --> 01:16:54,928
+Tapi ada pekerjaan yang harus ku.../
+Ini pembunuhan!
+
+922
+01:16:57,444 --> 01:16:59,146
+Kau benar, Aurora.
+
+923
+01:16:59,147 --> 01:17:02,903
+Tapi pria yang tenggelam selalu mencoba untuk
+menyeret seseorang agar ikut tenggelam bersamanya.
+
+924
+01:17:02,928 --> 01:17:06,396
+Ini tidak benar,
+tapi si pria tenggelam
+
+925
+01:17:07,528 --> 01:17:09,828
+Ditambah ini jadi 16.
+
+926
+01:17:12,571 --> 01:17:14,806
+Ya.
+
+927
+01:17:16,131 --> 01:17:18,664
+Hei.
+Kau baik-baik saja?
+
+928
+01:17:20,524 --> 01:17:23,770
+Kau harus beristirahat./ Ya.
+
+929
+01:17:23,771 --> 01:17:28,941
+Tapi hanya beberapa jam dan kemudian,
+kembali kesini dulu pada pagi hari.
+
+930
+01:18:21,465 --> 01:18:24,650
+KEHILANGAN GRAVITASI
+
+931
+01:19:32,912 --> 01:19:34,434
+MENDORONG GRAVITASI
+
+932
+01:19:34,459 --> 01:19:35,300
+MENDORONG GRAVITASI
+
+933
+01:20:15,375 --> 01:20:17,174
+Aku ada di kolam renang
+saat gravitasinya hilang.
+
+934
+01:20:17,199 --> 01:20:18,211
+Kau baik-baik saja?
+
+935
+01:20:18,212 --> 01:20:20,702
+Kita harus menemui Gus.
+
+936
+01:20:21,370 --> 01:20:23,950
+Gus!
+Gus!
+
+937
+01:20:23,951 --> 01:20:27,354
+Hilangnya gravitasi artinya apapun yang salah
+kita akan mulai mengalami sesuatu yang besar.
+
+938
+01:20:27,355 --> 01:20:29,456
+Tidak bagus.
+
+939
+01:20:29,457 --> 01:20:34,526
+Setiap kegagalan adalah terbakarnya prosesor,
+semua yang ada di kapal berpikir terlalu keras.
+
+940
+01:20:34,551 --> 01:20:36,386
+Kenapa?
+
+941
+01:20:36,531 --> 01:20:39,333
+Komputer, tampilkan
+kegagalan itu dari waktu ke waktu!
+
+942
+01:20:39,334 --> 01:20:42,201
+<i>Memproses kronologi.</i>
+
+943
+01:20:42,679 --> 01:20:45,182
+Kegagalan mengalir ke bawah.
+
+944
+01:20:45,340 --> 01:20:48,642
+Ini dimulai 2 tahun yang lalu,
+lonjakan daya.
+
+945
+01:20:48,643 --> 01:20:51,578
+17 kegagalan dalam 1 hari.
+
+946
+01:20:51,579 --> 01:20:53,980
+Termasuk pod hibernasi 1498.
+
+947
+01:20:53,981 --> 01:20:55,514
+Itu aku.
+
+948
+01:20:55,515 --> 01:20:57,883
+Yang membangunkanku.
+
+949
+01:20:58,618 --> 01:21:01,331
+Apa yang terjadi hari itu?/
+Sesuatu yang besar.
+
+950
+01:21:01,356 --> 01:21:04,018
+Sistem utama di suatu tempat ada yang mati.
+
+951
+01:21:04,043 --> 01:21:06,326
+Semua yang di kapal mencoba
+untuk mengangkat beban...
+
+952
+01:21:06,327 --> 01:21:07,961
+...tapi bebannya terlalu berat.
+
+953
+01:21:07,962 --> 01:21:10,161
+Apapun yang memulai ini,
+kita harus menemukannya.
+
+954
+01:21:10,186 --> 01:21:13,834
+Dan memperbaikinya./
+Seburuk apa ini?
+
+955
+01:21:13,835 --> 01:21:16,269
+Berikan aku analisis risiko
+berdasarkan data ini.
+
+956
+01:21:16,270 --> 01:21:17,940
+<i>Mengekstrapolasi.</i>
+#Perluasan data
+
+957
+01:21:17,965 --> 01:21:20,419
+<i>Hasil kerusakan berat akan segera keluar.</i>
+
+958
+01:21:20,444 --> 01:21:23,577
+<i>Sistem yang gagal :
+Pendukung kehidupan, Reaktor Fusi..,</i>
+
+959
+01:21:23,578 --> 01:21:24,745
+Jadi kita terdampar...
+
+960
+01:21:24,746 --> 01:21:26,980
+<i>Ruang Hibernasi, Pendorong Besi.</i>
+
+961
+01:21:26,981 --> 01:21:29,347
+...di kapal yang karam.
+
+962
+01:21:37,391 --> 01:21:39,092
+<i>Mesin utama.</i>
+
+963
+01:21:39,093 --> 01:21:42,995
+Tidak banyak benda yang cukup besar
+untuk menghantam kapal ini sekeras itu.
+
+964
+01:21:45,065 --> 01:21:48,602
+Dengan keluarnya diagnosa,
+kita harus menemukannya sendiri.
+
+965
+01:21:48,603 --> 01:21:51,037
+Darimana kita akan memulai?
+
+966
+01:21:51,038 --> 01:21:52,538
+Gus!
+
+967
+01:21:56,025 --> 01:21:59,627
+<i>Pemindaian selesai.
+Menganalisis data.</i>
+
+968
+01:22:01,269 --> 01:22:03,800
+612 KERUSAKAN DITEMUKAN
+
+969
+01:22:02,883 --> 01:22:05,018
+Apa ada sesuatu
+yang salah denganku?
+
+970
+01:22:05,019 --> 01:22:06,414
+Sedikit hal.
+
+971
+01:22:06,439 --> 01:22:09,182
+<i>612 kerusakan ditemukan.</i>
+
+972
+01:22:09,423 --> 01:22:11,356
+Keluarkan aku dari sini.
+
+973
+01:22:25,405 --> 01:22:26,840
+Bagaimana prognosisnya?
+
+974
+01:22:26,841 --> 01:22:31,184
+<i>Hasil diagnosa parah tidak bisa dibicarakan
+tanpa dokter atau perawat.</i>
+
+975
+01:22:31,209 --> 01:22:35,415
+Ganti otoritas kepadaku,
+ID 2317.
+
+976
+01:22:35,416 --> 01:22:36,683
+Beritahu aku, dok.
+
+977
+01:22:36,684 --> 01:22:38,618
+<i>Nekrosis sistem PAN.</i>
+
+978
+01:22:38,619 --> 01:22:41,621
+<i>Kegagalan organ progresif.
+Sebab tidak diketahui.</i>
+
+979
+01:22:41,622 --> 01:22:44,424
+Pod hibernasiku yang konyol,
+itu penyebabnya.
+
+980
+01:22:44,425 --> 01:22:47,364
+Bagaimana pengobatannya?/
+<i>Berbagai macam pengobatan dimungkinkan.</i>
+
+981
+01:22:47,389 --> 01:22:50,489
+<i>Tidak ada yang berarti untuk
+memperpanjang hidup pasien.</i>
+
+982
+01:22:53,633 --> 01:22:54,883
+Berapa lama yang kupunya?
+
+983
+01:22:55,189 --> 01:22:58,200
+<i>Akhir dari transisi kehidupanmu
+sudah berlangsung.</i>
+
+984
+01:22:58,945 --> 01:23:03,642
+<i>Obat penenang ini akan mengurangi
+rasa sakitmu selama jam-jam terakhir.</i>
+
+985
+01:23:20,623 --> 01:23:22,524
+Gus?
+
+986
+01:23:26,898 --> 01:23:28,965
+Aku butuh waktu sebentar.
+
+987
+01:23:58,249 --> 01:24:01,177
+<i>Kami sedang mengalami kesulitan penerbangan.</i>
+
+988
+01:24:01,202 --> 01:24:03,299
+Gus!/ Gus!
+
+989
+01:24:03,324 --> 01:24:04,470
+Ada dimana dia?
+
+990
+01:24:04,495 --> 01:24:08,407
+<i>Untuk keselamatan Anda,
+harap kembali ke kabin Anda.</i>
+
+991
+01:24:11,111 --> 01:24:14,080
+<i>Kami sedang mengalami
+kesulitan penerbangan.</i>
+
+992
+01:24:14,081 --> 01:24:17,851
+<i>Untuk keselamatan Anda,
+harap kembali ke kabin Anda.</i>
+
+993
+01:24:17,852 --> 01:24:20,320
+Aku harus minum pil sialan itu
+
+994
+01:24:20,321 --> 01:24:24,567
+Aku akan mengambilnya./
+Tidak, tetaplah disini.
+
+995
+01:24:24,592 --> 01:24:27,192
+Duduklah.
+
+996
+01:24:30,497 --> 01:24:33,532
+Kalian berdua jagalah satu sama lain.
+
+997
+01:24:42,342 --> 01:24:44,443
+ID-ku...
+
+998
+01:24:45,580 --> 01:24:48,713
+Pergilah kemana kalian harus pergi.
+
+999
+01:24:49,162 --> 01:24:51,529
+Perbaiki kapalnya.
+
+1000
+01:24:51,985 --> 01:24:54,820
+Cari tahu apa yang salah dengannya.
+
+1001
+01:24:57,347 --> 01:24:59,414
+Bagaimana kelihatannya aku?
+
+1002
+01:24:59,826 --> 01:25:02,167
+Kau kelihatan luar biasa.
+
+1003
+01:25:02,581 --> 01:25:06,391
+Wanita suka pria berpakaian rapi..
+
+1004
+01:25:14,297 --> 01:25:16,164
+Apa yang akan kita lakukan sekarang?
+
+1005
+01:25:22,864 --> 01:25:24,668
+Ini tidak bagus.
+
+1006
+01:25:27,544 --> 01:25:29,346
+Aku akan kembali ke mesin utama.
+
+1007
+01:25:29,371 --> 01:25:31,438
+Bisakah kau memperbaiki ini?
+
+1008
+01:25:31,525 --> 01:25:33,725
+Aku butuh bantuanmu.
+
+1009
+01:25:36,197 --> 01:25:37,762
+Ayo pergi!
+
+1010
+01:25:59,918 --> 01:26:01,518
+Arthur!
+
+1011
+01:26:16,679 --> 01:26:20,238
+Ayo pergi!/
+Ya.
+
+1012
+01:26:21,708 --> 01:26:23,710
+<i>Mesin utama.</i>
+
+1013
+01:26:23,711 --> 01:26:25,745
+Tidak bolehkah kita membangunkan
+beberapa awak kapal?
+
+1014
+01:26:25,746 --> 01:26:28,081
+Mereka butuh waktu terlalu lama untuk pemulihan,
+kita tidak punya waktu banyak.
+
+1015
+01:26:28,082 --> 01:26:30,413
+Apa yang kita cari?
+
+1016
+01:26:30,450 --> 01:26:32,968
+Sesuatu yang rusak.
+
+1017
+01:26:33,236 --> 01:26:34,406
+Sesuatu yang besar.
+
+1018
+01:26:34,431 --> 01:26:36,141
+Ayo!
+
+1019
+01:26:37,483 --> 01:26:40,088
+Apa ini rusak?/ Kelihatannya ini bagus.
+
+1020
+01:26:40,200 --> 01:26:40,760
+Apa selanjutnya?
+
+1021
+01:26:40,761 --> 01:26:43,795
+Pembangkit listrik.
+Lewat sini.
+
+1022
+01:26:48,869 --> 01:26:50,670
+Ayo!
+
+1023
+01:26:50,671 --> 01:26:52,672
+Seluruh bagian ini ditutup.
+Ada sesuatu yang salah.
+
+1024
+01:26:52,673 --> 01:26:54,340
+Kita mencari kesalahan.
+
+1025
+01:26:54,341 --> 01:26:55,941
+Cobalah buka ini.
+
+1026
+01:27:07,554 --> 01:27:10,356
+<i>Peringatan.
+Kesalahan tekanan</i>
+
+1027
+01:27:10,357 --> 01:27:12,891
+<i>Memulai penguncian.</i>
+
+1028
+01:27:15,291 --> 01:27:16,991
+<i>Harap amankan semua pintu.</i>
+
+1029
+01:27:17,016 --> 01:27:19,183
+Pegangan!
+
+1030
+01:27:21,034 --> 01:27:23,770
+<i>Peringatan.
+Tingkat oksigen berbahaya.</i>
+
+1031
+01:27:23,771 --> 01:27:26,538
+<i>Harap amankan semua pintu.</i>
+
+1032
+01:27:35,430 --> 01:27:37,380
+<i>Tingkat oksigen berbahaya.</i>
+
+1033
+01:27:37,405 --> 01:27:40,105
+<i>Harap amankan semua pintu.</i>
+
+1034
+01:27:43,843 --> 01:27:45,610
+Tangkap ini!
+
+1035
+01:27:51,931 --> 01:27:55,634
+<i>Pemberian tekanan pada kabin berhasil.</i>
+
+1036
+01:28:03,410 --> 01:28:05,845
+<i>Tekanan dinormalkan.</i>
+
+1037
+01:28:06,147 --> 01:28:08,047
+<i>Tingkat oksigen dipulihkan.</i>
+
+1038
+01:28:08,048 --> 01:28:10,316
+Ada.../
+<i>Menghentikan penguncian.</i>
+
+1039
+01:28:10,317 --> 01:28:12,951
+Lubang di kapal.
+
+1040
+01:28:14,780 --> 01:28:16,547
+Lebih dari satu.
+
+1041
+01:28:19,392 --> 01:28:22,204
+Bagaimana bisa itu terjadi?
+Kapal ini seharusnya anti meteor.
+
+1042
+01:28:22,229 --> 01:28:24,262
+Kurasa salah satunya berhasil melaluinya.
+
+1043
+01:28:32,079 --> 01:28:33,646
+Ini panas!
+
+1044
+01:28:40,277 --> 01:28:42,210
+Kurasa kita menemukannya.
+
+1045
+01:28:51,791 --> 01:28:54,893
+Ini reaktor komputer kontrol.
+
+1046
+01:28:59,999 --> 01:29:01,801
+Inilah yang menghantam
+kita 2 tahun lalu.
+
+1047
+01:29:01,802 --> 01:29:03,736
+Jim.
+
+1048
+01:29:03,830 --> 01:29:06,063
+Bagaimana bisa kita memperbaiki ini?
+
+1049
+01:29:08,875 --> 01:29:09,991
+Kita akan mati.
+
+1050
+01:29:10,016 --> 01:29:12,282
+Ada komponen pengganti untuk semuanya.
+
+1051
+01:29:16,600 --> 01:29:19,267
+Lampu./
+Maaf.
+
+1052
+01:29:20,996 --> 01:29:23,690
+Begitu aku menarik modul ini,
+seluruh komputer akan dimatikan.
+
+1053
+01:29:23,691 --> 01:29:26,124
+Apa yang terjadi selanjutnya?
+
+1054
+01:29:26,994 --> 01:29:29,494
+Aku akan kembali
+secepat yang kubisa.
+
+1055
+01:29:33,500 --> 01:29:35,066
+Cepat!
+
+1056
+01:29:37,104 --> 01:29:39,637
+Jim!/
+Oke.
+
+1057
+01:29:41,141 --> 01:29:43,675
+<i>Komputer kontrol dipulihkan.</i>
+
+1058
+01:29:44,771 --> 01:29:46,870
+<i>Membuka lubang reaktor.</i>
+
+1059
+01:29:48,521 --> 01:29:51,230
+Tapi kami memperbaiki ini!/
+<i>Reaktor ventilasi gagal.</i>
+
+1060
+01:29:51,255 --> 01:29:54,489
+<i>Cara manual diperlukan.</i>
+
+1061
+01:29:59,196 --> 01:30:00,728
+<i>Kegagalan ventilasi.</i>
+
+1062
+01:30:00,753 --> 01:30:02,986
+Ayo!/ Jim.
+
+1063
+01:30:07,053 --> 01:30:08,706
+<i>Pintu luar tidak merespon.</i>
+
+1064
+01:30:08,774 --> 01:30:11,307
+Apa artinya itu?
+
+1065
+01:30:12,238 --> 01:30:14,207
+Pintu luarnya macet.
+
+1066
+01:30:14,208 --> 01:30:16,209
+Kita harus membuka pintu itu
+dan mendinginkan reaktornya...
+
+1067
+01:30:16,210 --> 01:30:17,810
+...atau lubang kapalnya akan meledak.
+
+1068
+01:30:17,811 --> 01:30:18,845
+Bagaimana?
+
+1069
+01:30:18,846 --> 01:30:20,647
+Aku harus pergi keluar sana.
+
+1070
+01:30:20,648 --> 01:30:23,082
+Membukanya dari luar.
+
+1071
+01:30:23,083 --> 01:30:25,818
+Aku membuka pintunya
+Aku akan membereskannya.
+
+1072
+01:30:25,819 --> 01:30:27,720
+Kau hembuskan api itu ke luar angkasa.
+
+1073
+01:30:27,721 --> 01:30:30,390
+Kau akan membereskannya?/
+Kau bisa bicara padaku lewat ini.
+
+1074
+01:30:30,391 --> 01:30:33,158
+Apa yang akan terjadi
+padamu saat pintunya terbuka?
+
+1075
+01:30:43,002 --> 01:30:45,470
+Pelindung panas.
+Ini mungkin membantu.
+
+1076
+01:30:53,846 --> 01:30:56,080
+Kau mungkin perlu ini.
+
+1077
+01:31:09,062 --> 01:31:10,829
+Ini akan jadi baik-baik saja.
+
+1078
+01:31:20,388 --> 01:31:22,022
+Lebih baik aku pergi.
+
+1079
+01:31:26,846 --> 01:31:29,914
+Jim.
+Jim.
+
+1080
+01:31:32,446 --> 01:31:34,614
+Kembalilah padaku.
+
+1081
+01:31:35,621 --> 01:31:38,656
+Aku tidak bisa hidup
+di kapal tanpamu.
+
+1082
+01:32:03,484 --> 01:32:05,931
+<i>Peringatan.
+Temperatur panas.</i>
+
+1083
+01:32:05,956 --> 01:32:07,574
+Aww!
+
+1084
+01:32:19,366 --> 01:32:21,143
+Ada apa?
+
+1085
+01:32:21,633 --> 01:32:23,747
+<i>Apa masalahnya?
+Kau baik-baik saja?</i>
+
+1086
+01:32:23,772 --> 01:32:24,535
+Bukan apa-apa.
+
+1087
+01:32:24,560 --> 01:32:26,072
+Pergilah./
+<i>Kau yakin?</i>
+
+1088
+01:32:26,073 --> 01:32:28,072
+<i>Pergi.</i>
+
+1089
+01:32:35,081 --> 01:32:36,915
+Aku ada di tabung ventilasi.
+
+1090
+01:32:37,717 --> 01:32:40,718
+<i>Pengait baru.
+Mengganti tali pengait.</i>
+
+1091
+01:32:43,956 --> 01:32:45,623
+Aku melihat pintunya.
+
+1092
+01:32:46,325 --> 01:32:48,858
+<i>Tingkat temperatur membesar.</i>
+
+1093
+01:32:55,369 --> 01:32:58,136
+<i>Peringatan.
+Temperatur panas.</i>
+
+1094
+01:33:04,277 --> 01:33:06,477
+<i>Penahanan tidak stabil.</i>
+
+1095
+01:33:07,848 --> 01:33:08,981
+Dimana kau?
+
+1096
+01:33:08,982 --> 01:33:10,249
+Aku ada di pintu.
+
+1097
+01:33:10,250 --> 01:33:11,751
+<i>Aku sudah siap, katakan saja kapan.</i>
+
+1098
+01:33:11,752 --> 01:33:13,618
+Ini dia.
+
+1099
+01:33:16,323 --> 01:33:19,891
+Pintunya tidak mau terbuka.
+<i>Aku harus berada di sekitar sini.</i>
+
+1100
+01:33:21,528 --> 01:33:24,162
+<i>Tingkat temperatur membesar.</i>
+
+1101
+01:33:24,584 --> 01:33:25,932
+Jim, ayo!
+
+1102
+01:33:25,933 --> 01:33:27,674
+Tolong cepat!
+
+1103
+01:33:27,699 --> 01:33:30,768
+Baiklah, aku mencobanya lagi./
+<i>Katakan padaku saat sudah selesai.</i>
+
+1104
+01:33:34,768 --> 01:33:35,660
+Tidak!
+
+1105
+01:33:35,685 --> 01:33:37,046
+Apa?
+
+1106
+01:33:37,618 --> 01:33:39,385
+Apa yang terjadi?
+
+1107
+01:33:39,524 --> 01:33:41,257
+<i>Jim?</i>
+
+1108
+01:33:44,883 --> 01:33:46,085
+<i>Jim!</i>
+
+1109
+01:33:46,086 --> 01:33:48,086
+Pintunya tidak mau tetap terbuka.
+
+1110
+01:33:49,322 --> 01:33:52,758
+Kurasa aku harus tetap disini,
+<i>menahan pintunya agar terbuka.</i>
+
+1111
+01:33:52,759 --> 01:33:55,161
+Apa?/ Tidak!
+
+1112
+01:33:55,162 --> 01:33:56,829
+<i>Tidak mungkin, keluarlah dari sana!</i>
+
+1113
+01:33:56,830 --> 01:33:58,372
+Aku tidak bisa.
+
+1114
+01:33:58,397 --> 01:34:00,099
+<i>Jim...</i>
+
+1115
+01:34:00,100 --> 01:34:01,966
+<i>Kita kehabisan waktu.</i>
+
+1116
+01:34:03,002 --> 01:34:04,714
+<i>Penahanan tidak stabil.</i>
+
+1117
+01:34:04,739 --> 01:34:06,405
+Jim?
+
+1118
+01:34:12,343 --> 01:34:14,144
+Buka lubang reaktornya.
+
+1119
+01:34:20,186 --> 01:34:23,356
+<i>Tidak, kau tidak mengerti!</i>
+
+1120
+01:34:23,357 --> 01:34:26,125
+<i>Jika aku membuka pintunya sekarang,
+ini akan membunuhmu!</i>
+
+1121
+01:34:26,126 --> 01:34:27,377
+Kuharap tidak.
+
+1122
+01:34:27,402 --> 01:34:29,162
+Kembalilah,
+kita pikirkan cara lain.
+
+1123
+01:34:29,163 --> 01:34:31,262
+<i>Tidak ada yang lain.</i>
+
+1124
+01:34:32,279 --> 01:34:33,831
+<i>Jim!</i>
+
+1125
+01:34:34,200 --> 01:34:36,801
+Ini baik-baik saja./
+Tidak, ini tidak baik-baik saja!
+
+1126
+01:34:36,885 --> 01:34:39,468
+<i>Aurora./
+Peringatan. Temperatur panas.</i>
+
+1127
+01:34:39,468 --> 01:34:42,335
+Bukan ini yang seharusnya terjadi!
+
+1128
+01:34:42,675 --> 01:34:44,210
+Aurora, kapal ini harus pergi.
+
+1129
+01:34:44,211 --> 01:34:47,313
+Aku tidak peduli!
+Kau mati, aku mati.
+
+1130
+01:34:47,314 --> 01:34:51,115
+Ada 5.000 orang lain di
+kapal ini, Aurora.
+
+1131
+01:34:51,479 --> 01:34:53,613
+Kita harus melakukan ini.
+
+1132
+01:34:54,025 --> 01:34:56,392
+<i>Tekanan maksimum tercapai.</i>
+
+1133
+01:34:59,415 --> 01:35:02,450
+Lakukan.
+Sekarang.
+
+1134
+01:35:02,858 --> 01:35:05,325
+<i>Tekanan maksimum kabin tercapai.</i>
+
+1135
+01:35:26,520 --> 01:35:28,953
+<i>Temperatur menurun.</i>
+
+1136
+01:35:29,996 --> 01:35:31,395
+Jim.
+
+1137
+01:35:49,523 --> 01:35:51,589
+Jim./
+<i>Ventilasi sukses.</i>
+
+1138
+01:35:51,614 --> 01:35:54,146
+<i>Memulai proses reboot.</i>
+
+1139
+01:35:54,147 --> 01:35:55,980
+Jim, tolong katakan sesuatu.
+
+1140
+01:36:32,718 --> 01:36:34,986
+<i>Tekanan baju menurun.</i>
+
+1141
+01:36:37,723 --> 01:36:41,347
+<i>Kembalilah ke kapal segera.</i>
+
+1142
+01:36:41,913 --> 01:36:43,679
+<i>Aurora.</i>
+
+1143
+01:36:44,836 --> 01:36:46,232
+Ini berhasil!
+
+1144
+01:36:46,233 --> 01:36:47,933
+Kau berhasil, kau bisa masuk!
+
+1145
+01:36:47,934 --> 01:36:50,208
+Ya, tentang itu...
+
+1146
+01:36:50,233 --> 01:36:52,664
+Apa masalahnya?
+Apa kau sakit?
+
+1147
+01:36:52,689 --> 01:36:54,440
+<i>Aku terpental dari tabung.</i>
+
+1148
+01:36:54,441 --> 01:36:56,208
+Apa?
+Tali pengaitku rusak.
+
+1149
+01:36:56,209 --> 01:36:58,986
+Aku tidak bisa kembali ke kapal.
+
+1150
+01:36:59,011 --> 01:37:00,913
+Aku akan keluar. Aku akan keluar.
+Aku akan menarikmu masuk.
+
+1151
+01:37:00,914 --> 01:37:03,828
+<i>Peringatan.
+Tingkat oksigen kritis.</i>
+
+1152
+01:37:03,853 --> 01:37:06,818
+<i>Kembalilah ke kapal segera.</i>
+
+1153
+01:37:14,627 --> 01:37:17,795
+Aurora, maafkan aku...
+
+1154
+01:37:19,232 --> 01:37:20,399
+...atas semuanya.
+
+1155
+01:37:20,400 --> 01:37:22,668
+Diamlah! Aku akan datang.
+
+1156
+01:37:22,669 --> 01:37:27,405
+<i>Kuharap kita akan bertemu
+90 tahun lagi.</i>
+
+1157
+01:37:32,078 --> 01:37:36,048
+Aku...
+Aku akan membangunkanmu sebuah rumah.
+
+1158
+01:37:40,019 --> 01:37:42,587
+Aku akan membaca bukumu.
+
+1159
+01:37:44,390 --> 01:37:46,424
+Pasti senang rasanya.
+
+1160
+01:37:58,549 --> 01:37:59,852
+<i>Tali pengait terpasang.</i>
+
+1161
+01:37:59,875 --> 01:38:02,442
+Lokasi Jim Preston.
+
+1162
+01:38:06,212 --> 01:38:09,347
+<i>Jim Preston, ditemukan.</i>
+
+1163
+01:38:09,715 --> 01:38:11,916
+Aku akan datang menjemputmu.
+
+1164
+01:38:36,082 --> 01:38:38,149
+Jim!
+
+1165
+01:39:37,536 --> 01:39:39,772
+<i>Maaf.
+Pasien sudah meninggal.</i>
+
+1166
+01:39:39,773 --> 01:39:41,354
+Kalau begitu resusitasi dia!
+#Penyadaran
+
+1167
+01:39:41,379 --> 01:39:44,790
+<i>Operasi postmortem membutuhkan
+pengawasan medis yang berwenang.</i>
+
+1168
+01:39:44,815 --> 01:39:49,311
+Tidak! Jim.
+
+1169
+01:39:54,599 --> 01:39:57,289
+Ganti!
+Ganti otoritas kepadaku!
+
+1170
+01:39:57,290 --> 01:40:00,691
+ID 17...
+
+1171
+01:40:02,139 --> 01:40:04,029
+2...
+
+1172
+01:40:04,030 --> 01:40:05,564
+2...
+
+1173
+01:40:05,565 --> 01:40:07,266
+2317.
+
+1174
+01:40:07,267 --> 01:40:10,434
+2317!
+ID 2317!
+
+1175
+01:40:13,842 --> 01:40:15,341
+RESUSITASI
+
+1176
+01:40:15,366 --> 01:40:17,094
+DEFIBRILASI
+OKSIGENASI
+
+1177
+01:40:17,810 --> 01:40:19,857
+<i>Prosedur ganda tidak dianjurkan.</i>
+
+1178
+01:40:19,882 --> 01:40:23,042
+Ganti!
+Lakukan sekarang!
+
+1179
+01:40:23,376 --> 01:40:24,543
+<i>Mengeksekusi.</i>
+
+1180
+01:41:24,014 --> 01:41:25,780
+Jim.
+
+1181
+01:41:27,205 --> 01:41:28,948
+Jim.
+
+1182
+01:41:56,448 --> 01:41:59,054
+Kau membawaku kembali.
+
+1183
+01:41:59,079 --> 01:42:00,878
+Yeah.
+
+1184
+01:42:24,536 --> 01:42:26,856
+Terima kasih./
+Tenanglah.
+
+1185
+01:42:26,881 --> 01:42:28,613
+Tentu.
+
+1186
+01:43:13,374 --> 01:43:15,597
+Ada sesuatu yang harus
+kutunjukan padamu.
+
+1187
+01:43:15,622 --> 01:43:17,222
+Pada mode komando, ternyata...
+
+1188
+01:43:17,223 --> 01:43:21,383
+...otodok punya fungsi lainyang disebut
+"Menstabilkan dan Menangguhkan".
+
+1189
+01:43:21,408 --> 01:43:24,376
+Ini menghentikan aktivitas metabolisme.
+
+1190
+01:43:25,849 --> 01:43:27,085
+Apa maksudmu?
+
+1191
+01:43:27,110 --> 01:43:30,669
+Ini Idenya Gus.
+Ini mirip seperti hibernasi di dalam otodok.
+
+1192
+01:43:30,670 --> 01:43:32,636
+Kau bisa kembali tidur.
+
+1193
+01:43:36,775 --> 01:43:39,376
+Tapi cuma ada satu otodok.
+
+1194
+01:43:42,995 --> 01:43:45,029
+Ya.
+
+1195
+01:43:46,452 --> 01:43:51,690
+Dan kau yang akan masuk dan tidur.
+
+1196
+01:43:51,691 --> 01:43:53,959
+Dan kau akan bangun di Homestead II..,
+
+1197
+01:43:53,960 --> 01:43:56,527
+...dan kau akan menulis bukumu.
+
+1198
+01:43:57,529 --> 01:44:01,332
+Kau menyelesaikan petualanganmu.
+Kau melakukan apa yang kau rencanakan.
+
+1199
+01:44:09,178 --> 01:44:11,479
+Kau akan sendirian.
+
+1200
+01:44:12,044 --> 01:44:16,447
+Aku sudah sendirian sebelumnya
+dan aku akan baik-baik saja.
+
+1201
+01:44:17,282 --> 01:44:19,850
+Tapi aku takkan pernah melihatmu lagi.
+
+1202
+01:44:22,921 --> 01:44:25,322
+Aku akan datang dan mengunjungimu.
+
+1203
+01:45:07,366 --> 01:45:09,900
+Selasa adalah hariku degan Arthur.
+
+1204
+01:45:11,436 --> 01:45:12,905
+Tercinta seperti biasanya.
+
+1205
+01:45:12,906 --> 01:45:15,440
+Terima kasih, Arthur.
+Kau sendiri kelihatan bagus.
+
+1206
+01:45:15,441 --> 01:45:17,474
+Terima kasih padamu.
+
+1207
+01:45:18,139 --> 01:45:19,940
+Apa itu?
+
+1208
+01:45:21,657 --> 01:45:24,725
+Sesuatu yang ingin kuberikan padamu
+dari dulu.
+
+1209
+01:45:31,056 --> 01:45:33,524
+Ini indah.
+
+1210
+01:45:45,771 --> 01:45:48,672
+Butuh waktu lama bagimu untuk bertanya.
+
+1211
+01:45:50,976 --> 01:45:54,778
+Sampanye.
+Aku akan menunggu.
+
+1212
+01:46:11,230 --> 01:46:13,631
+Neraka kehidupan.
+
+1213
+01:46:15,668 --> 01:46:17,835
+Neraka kehidupan.
+
+1214
+01:46:35,734 --> 01:46:40,089
+HOMESTEAD II
+
+1215
+01:46:40,089 --> 01:46:47,054
+HOMESTEAD II
+88 TAHUN KEMUDIAN
+
+1216
+01:46:48,481 --> 01:46:52,671
+<i>Memulai proses pembangungan awak kapal.</i>
+
+1217
+01:46:52,672 --> 01:46:54,640
+<i>Teman-teman penumpangku..,</i>
+
+1218
+01:46:54,641 --> 01:46:59,912
+<i>...jika kalian membaca ini, itu berarti
+Avalon sudah mencapai tujuannya.</i>
+
+1219
+01:46:59,913 --> 01:47:02,214
+<i>Grand Concourse.</i>
+
+1220
+01:47:02,215 --> 01:47:04,848
+<i>Banyak hal terjadi ketika kalian tidur.</i>
+
+1221
+01:47:11,823 --> 01:47:13,636
+<i>Temanku pernah berkata :</i>
+
+1222
+01:47:13,661 --> 01:47:16,896
+<i>"Kau tidak boleh terpaku
+dengan tempat yang lebih kau suka..,"</i>
+
+1223
+01:47:16,921 --> 01:47:20,764
+<i>"...kau lupa untuk memanfaatkan
+tempat dimana kau berada secara maksimal."</i>
+
+1224
+01:47:20,999 --> 01:47:23,801
+<i>Kami tersesat di jalan.</i>
+
+1225
+01:47:24,036 --> 01:47:26,366
+<i>Tapi kami saling bertemu.</i>
+
+1226
+01:47:26,391 --> 01:47:28,240
+<i>Dan kami membuat kehidupan.</i>
+
+1227
+01:47:28,241 --> 01:47:32,870
+<i>Kehidupan yang indah... bersama.</i>
+
